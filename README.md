@@ -21,7 +21,7 @@ If you want to search & filters the complete database of [.WEDDING one word doma
 
 | Domain             | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ------------------ | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.wedding        | available | 70       | 38%    | 3      |           |         |         |
+| aaa.wedding        | premium   | 70       | 38%    | 3      |           |         |         |
 | abactinal.wedding  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.wedding      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.wedding  | available | 58       | 7%     | 9      |           |         |         |
@@ -31,7 +31,7 @@ If you want to search & filters the complete database of [.WEDDING one word doma
 | abatic.wedding     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.wedding    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.wedding   | available | 50       | 1%     | 8      |           |         |         |
-| abc.wedding        | available | 102      | 41%    | 3      |           |         |         |
+| abc.wedding        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.wedding  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.wedding  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.wedding | available | 56       | 1%     | 10     |           |         |         |
