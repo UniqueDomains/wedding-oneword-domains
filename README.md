@@ -72,13 +72,13 @@ print(df.head())
 | business.wedding  | premium   | $104      | $31.20        | 100            | 53     | 8      | namecheap        |
 | zero.wedding      | available | $41.98    | —             | 112            | 53     | 4      | namecheap        |
 | enjoy.wedding     | resell    | —         | —             | 88             | 66     | 5      | GoDaddy.com, LLC |
-| design.wedding    | premium   | $500      | $45.99        | 108            | 50     | 6      | name.com         |
+| abc.wedding       | premium   | $520      | $31.20        | 102            | 50     | 3      | namecheap        |
 | athletics.wedding | available | $41.98    | —             | 69             | 52     | 9      | namecheap        |
 | news.wedding      | resell    | —         | —             | 100            | 64     | 4      | NameCheap, Inc.  |
-| abc.wedding       | premium   | $520      | $31.20        | 102            | 50     | 3      | namecheap        |
+| life.wedding      | premium   | $104      | $31.20        | 84             | 50     | 4      | namecheap        |
 | clear.wedding     | available | $41.98    | —             | 90             | 49     | 5      | namecheap        |
 | future.wedding    | resell    | —         | —             | 94             | 55     | 6      | GoDaddy.com, LLC |
-| life.wedding      | premium   | $104      | $31.20        | 84             | 50     | 4      | namecheap        |
+| design.wedding    | premium   | $500      | $45.99        | 108            | 49     | 6      | name.com         |
 | security.wedding  | available | $41.98    | —             | 70             | 49     | 8      | namecheap        |
 | book.wedding      | resell    | —         | —             | 82             | 55     | 4      | GoDaddy.com, LLC |
 | travel.wedding    | premium   | $2,600    | $31.20        | 115            | 48     | 6      | namecheap        |
