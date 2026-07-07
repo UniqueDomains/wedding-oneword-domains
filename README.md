@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .wedding one-word domains f
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,521 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,521 domains · **Median ask:** $64.27 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,521 domains · **Median ask:** $67.17 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/wedding`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/wedding`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .WEDDING one-word doma
 
 ### Files
 
-- `wedding.csv` — public CSV extract (1,000 rows)
-- `wedding.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `wedding.csv`, public CSV extract (1,000 rows)
+- `wedding.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| farmers.wedding   | available | $43.98    | —             | 54             | 59     | 7      | namecheap        |
-| pros.wedding      | resell    | —         | —             | 53             | 23     | 4      | GoDaddy.com, LLC |
-| travelers.wedding | premium   | $47.20    | $29.50        | 58             | 61     | 9      | namesilo         |
-| robots.wedding    | available | $32.49    | $32.49        | 62             | 47     | 6      | namesilo         |
-| skills.wedding    | premium   | $250      | —             | 58             | 47     | 6      | name.com         |
-| coins.wedding     | available | $43.98    | —             | 56             | 41     | 5      | namecheap        |
-| Tools.wedding     | premium   | $56       | $35           | 56             | 40     | 5      | namecheap        |
-| shortcuts.wedding | available | $43.98    | —             | 48             | 41     | 10     | namecheap        |
-| homes.wedding     | premium   | $50       | —             | 86             | 34     | 5      | name.com         |
-| tickets.wedding   | available | $32.49    | $32.49        | 64             | 34     | 7      | namesilo         |
-| slots.wedding     | premium   | $47.20    | $29.50        | 49             | 31     | 5      | namesilo         |
-| payments.wedding  | available | $43.98    | —             | 58             | 33     | 8      | namecheap        |
-| forms.wedding     | premium   | $50       | —             | 54             | 28     | 5      | name.com         |
-| William.wedding   | available | $43.98    | —             | 74             | 31     | 7      | namecheap        |
-| KFC.wedding       | premium   | $56       | $35           | 74             | 27     | 3      | namecheap        |
-| heroes.wedding    | available | $43.98    | —             | 68             | 29     | 6      | namecheap        |
-| sites.wedding     | premium   | $250      | —             | 53             | 26     | 5      | name.com         |
-| brands.wedding    | available | $43.98    | —             | 62             | 28     | 6      | namecheap        |
-| toys.wedding      | premium   | $96       | $29.50        | 60             | 24     | 4      | namesilo         |
-| Keith.wedding     | available | $43.98    | —             | 66             | 25     | 5      | namecheap        |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| half.wedding    | premium   | $47.20    | $29.50        | high           | low    | 4      | namesilo         |
+| nothing.wedding | available | $32.49    | $32.49        | high           | low    | 7      | namesilo         |
+| sad.wedding     | available | $32.49    | $32.49        | high           | low    | 3      | namesilo         |
+| buy.wedding     | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.  |
+| ale.wedding     | premium   | $47.20    | $29.50        | medium         | low    | 3      | namesilo         |
+| aide.wedding    | available | $32.49    | $32.49        | high           | low    | 4      | namesilo         |
+| own.wedding     | resell    | —         | —             | high           | high   | 3      | GoDaddy.com, LLC |
+| ane.wedding     | premium   | $47.20    | $29.50        | low            | low    | 3      | namesilo         |
+| aunt.wedding    | available | $32.49    | $32.49        | high           | low    | 4      | namesilo         |
+| luck.wedding    | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
+| Ann.wedding     | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo         |
+| base.wedding    | available | $32.49    | $32.49        | medium         | medium | 4      | namesilo         |
+| insure.wedding  | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC |
+| ask.wedding     | premium   | $47.20    | $29.50        | high           | medium | 3      | namesilo         |
+| been.wedding    | available | $32.49    | $32.49        | medium         | low    | 4      | namesilo         |
+| virtual.wedding | resell    | —         | —             | medium         | medium | 7      | Dynadot Inc      |
+| cot.wedding     | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo         |
+| bomb.wedding    | available | $43.98    | —             | medium         | low    | 4      | namecheap        |
+| KeyWest.wedding | resell    | —         | —             | high           | low    | 8      | NameCheap, Inc.  |
+| don.wedding     | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is made up entirely of one-word domains on .wedding. That creates a clear niche signal: the extension itself says wedding, so the word has to carry the brand, offer, or positioning. Broad words such as match.wedding or play.wedding can feel flexible, while unusual terms such as legislative.wedding or modem.wedding may be harder to justify commercially. With a median ask of 64.27, the entry price looks accessible, but the better choices are still the ones that are easy to say, easy to remember, and credible for a wedding-facing business. When comparing these domains, weigh brandability first, then price and likely renewal tolerance for a niche TLD.
+This list of domains covers one-word names on the .WEDDING extension, including examples like half.wedding, out.wedding, just.wedding, and christmas.wedding. With a median asking price near $67, this set skews toward accessible, easy-to-secure names for wedding-focused brands, planners, and marketplaces. Compare each domain's asking price and renewal cost against its brandability and memorability before adding it to a shortlist or evaluating it for resale potential.
 
-- One-word .wedding domains only
-- 12,521 domains in this selection
-- Median ask: 64.27
-- Favor clear words with strong wedding fit
+- 12,521 one-word .WEDDING domains in this set
+- Median ask near $67 — accessible price point
+- Short, brandable names: half, just, okay, feel
+- Compare pricing and renewal before you shortlist
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .WEDDING One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .WEDDING One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
