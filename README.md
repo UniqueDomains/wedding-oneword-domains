@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .wedding one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 32,327 domains · **Median ask:** $46.79 · **High-demand under $2,500:** 22
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/wedding`
 **Best for:** founders, investors, studios
 
@@ -64,8 +64,11 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| sad.wedding     | available | $32.49    | $32.49        | high           | low    | 3      | namesilo         |
+| half.wedding    | premium   | $47.20    | $29.50        | high           | low    | 4      | namesilo         |
+| nothing.wedding | available | $32.49    | $32.49        | high           | low    | 7      | namesilo         |
 | own.wedding     | resell    | —         | —             | high           | high   | 3      | GoDaddy.com, LLC |
+| youtube.wedding | available | —         | —             | high           | medium | 7      | —                |
+| sad.wedding     | available | $32.49    | $32.49        | high           | low    | 3      | namesilo         |
 | ale.wedding     | premium   | $47.20    | $29.50        | medium         | low    | 3      | namesilo         |
 | acid.wedding    | available | $32.49    | $32.49        | medium         | low    | 4      | namesilo         |
 | best.wedding    | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc.  |
@@ -81,9 +84,6 @@ print(df.head())
 | clx.wedding     | premium   | $47.20    | $29.50        | low            | low    | 3      | namesilo         |
 | awed.wedding    | available | $32.49    | $32.49        | low            | low    | 4      | namesilo         |
 | cot.wedding     | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo         |
-| base.wedding    | available | $32.49    | $32.49        | low            | low    | 4      | namesilo         |
-| don.wedding     | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo         |
-| been.wedding    | available | $32.49    | $32.49        | medium         | low    | 4      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .WEDDING One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .WEDDING One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
