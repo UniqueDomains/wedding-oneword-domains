@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .wedding one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 33,229 domains · **Median ask:** $46.58 · **High-demand under $2,500:** 21
 
-**Last updated:** 2026-09-24
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/wedding`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| half.wedding    | premium   | $47.20    | $29.50        | high           | low    | 4      | namesilo         |
-| nothing.wedding | available | $32.49    | $32.49        | high           | low    | 7      | namesilo         |
-| pure.wedding    | premium   | $242      | $29.50        | high           | medium | 4      | namesilo         |
-| own.wedding     | resell    | —         | —             | high           | high   | 3      | GoDaddy.com, LLC |
-| youtube.wedding | available | —         | —             | high           | medium | 7      | —                |
-| wrong.wedding   | available | $32.49    | $32.49        | high           | low    | 5      | namesilo         |
-| count.wedding   | available | $32.49    | $32.49        | high           | low    | 5      | namesilo         |
-| skill.wedding   | available | $32.49    | $32.49        | high           | medium | 5      | namesilo         |
 | acid.wedding    | available | $32.49    | $32.49        | high           | low    | 4      | namesilo         |
 | lie.wedding     | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
 | ale.wedding     | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo         |
 | acts.wedding    | available | $32.49    | $32.49        | high           | low    | 4      | namesilo         |
+| own.wedding     | resell    | —         | —             | high           | high   | 3      | GoDaddy.com, LLC |
 | and.wedding     | premium   | $47.20    | $29.50        | high           | medium | 3      | namesilo         |
-| asat.wedding    | available | $32.49    | $32.49        | medium         | low    | 4      | namesilo         |
+| also.wedding    | available | $32.49    | $32.49        | high           | low    | 4      | namesilo         |
 | luck.wedding    | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
 | ane.wedding     | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo         |
-| ashy.wedding    | available | $32.49    | $32.49        | high           | low    | 4      | namesilo         |
-| wise.wedding    | resell    | —         | —             | high           | high   | 4      | GoDaddy.com, LLC |
+| asat.wedding    | available | $32.49    | $32.49        | high           | low    | 4      | namesilo         |
+| insure.wedding  | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC |
 | ann.wedding     | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo         |
+| ashy.wedding    | available | $32.49    | $32.49        | high           | low    | 4      | namesilo         |
+| mantra.wedding  | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC |
+| ash.wedding     | premium   | $500      | —             | high           | low    | 3      | name.com         |
 | aunt.wedding    | available | $32.49    | $32.49        | high           | low    | 4      | namesilo         |
+| season.wedding  | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC |
+| ask.wedding     | premium   | $47.20    | $29.50        | high           | medium | 3      | namesilo         |
+| awed.wedding    | available | $32.49    | $32.49        | high           | low    | 4      | namesilo         |
+| clothes.wedding | resell    | —         | —             | high           | low    | 7      | Dynadot Inc      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .WEDDING One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .WEDDING One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
