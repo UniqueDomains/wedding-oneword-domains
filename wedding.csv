@@ -1,7 +1,7 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 3a803f02-4c3f-4d91-90a9-72512b5100c7,auspicate.wedding,available,33.98,43.98,medium,low,9,namecheap,,,21/09/2026 03:29
 79478426-7e0c-41c0-b577-4afcfaa998df,nantes.wedding,available,32.49,32.49,medium,low,6,namesilo,,,28/09/2026 10:30
-b60b9b84-e7a9-4f41-8fa3-a4edf7e58cec,strasbourg.wedding,available,32.49,32.49,medium,low,10,namesilo,,,27/09/2026 15:59
+b60b9b84-e7a9-4f41-8fa3-a4edf7e58cec,strasbourg.wedding,available,32.49,32.49,high,low,10,namesilo,,,27/09/2026 15:59
 9a18a57c-d98a-45fb-ba86-836f4a61cd90,sinusoidal.wedding,available,32.49,32.49,high,low,10,namesilo,,,10/09/2026 08:42
 e5d6a3b4-6ca6-4688-a87f-6c686b54ed35,cartesian.wedding,available,32.49,32.49,high,low,9,namesilo,,,11/08/2026 19:49
 bc3274cc-3aba-4bf7-993c-511985047083,genital.wedding,available,32.49,32.49,high,low,7,namesilo,,,18/08/2026 21:40
@@ -15,37 +15,42 @@ bf6a4c59-ea8c-4f72-9049-0ce2cebd5705,lover.wedding,premium,512,29.5,high,low,5,n
 91c73b96-4fc0-45e4-8cd7-95da516781f1,ararat.wedding,available,33.98,43.98,medium,low,6,namecheap,,,20/09/2026 00:11
 73bc4400-154b-44b5-b149-891761a4ef1b,angles.wedding,available,32.49,32.49,medium,low,6,namesilo,,,28/09/2026 16:57
 65918b4b-5de1-4329-9ab8-0818ef853151,bartholdi.wedding,available,32.49,32.49,medium,low,9,namesilo,,,22/09/2026 09:11
-fb1b1f6a-8bf5-4607-a4b9-2dc87d8ee1d8,unexplored.wedding,available,32.49,32.49,medium,low,10,namesilo,,,12/09/2026 09:42
+fb1b1f6a-8bf5-4607-a4b9-2dc87d8ee1d8,unexplored.wedding,available,32.49,32.49,high,low,10,namesilo,,,12/09/2026 09:42
 8d5f3779-ee00-4c6f-9f68-a72ffbd2d947,chanting.wedding,available,26.97,26.97,high,low,8,dynadot,,,28/09/2026 18:40
 4e0fe135-8743-4163-9c45-7e9015f58d49,recommend.wedding,available,26.08,26.08,high,low,9,spaceship,,,28/09/2026 19:07
 59a8cab0-ba17-4afb-8094-79deda4863bd,beaked.wedding,available,32.49,32.49,medium,low,6,namesilo,,,09/08/2026 03:50
 a53df738-0578-411a-95c6-081f4589c73d,sack.wedding,available,32.49,32.49,high,low,4,namesilo,,,03/09/2026 15:56
 2ce1523f-05b4-473f-bdef-045d10c7ed9c,aussie.wedding,available,32.49,32.49,high,low,6,namesilo,,,22/09/2026 13:32
 e22a0dee-604f-426f-a88a-c7fc4d5e75e1,file.wedding,available,33.98,43.98,high,medium,4,namecheap,,,24/09/2026 21:00
-9379ed53-8b01-4797-85d2-c01d91e12b3f,restaurant.wedding,premium,96,29.5,high,low,10,namesilo,,,25/09/2026 05:21
+9379ed53-8b01-4797-85d2-c01d91e12b3f,restaurant.wedding,premium,96,29.5,high,low,10,namesilo,,,29/09/2026 08:14
 39b879b3-5fa8-49d1-b6a1-63871ab5bec8,mashhad.wedding,available,33.98,43.98,medium,low,7,namecheap,,,24/08/2026 20:59
 9a1e0e4f-c82f-4d35-a723-c8dde0a4c179,sexuality.wedding,available,26.08,26.08,high,low,9,spaceship,,,28/09/2026 10:54
 f9243860-9b41-481b-9956-f8f013bf2d71,aldehyde.wedding,available,32.49,32.49,high,low,8,namesilo,,,18/09/2026 04:24
 52f3f3fa-6cb4-4fa3-8057-6239b7e9050f,wheeled.wedding,available,32.49,32.49,high,low,7,namesilo,,,13/09/2026 11:20
 18c25730-f548-4b48-a295-08a90885720a,unpleasant.wedding,available,32.49,32.49,medium,low,10,namesilo,,,12/09/2026 16:58
 2230085c-3a6d-4f18-874d-4b1cf34ae339,thresher.wedding,available,32.49,32.49,medium,low,8,namesilo,,,18/09/2026 13:23
-4892373f-19b2-4a75-b715-1ee0e3afe79e,branded.wedding,available,32.49,32.49,high,low,7,namesilo,,,23/09/2026 02:22
+4892373f-19b2-4a75-b715-1ee0e3afe79e,branded.wedding,available,26.26,26.26,high,low,7,porkbun,,,30/09/2026 02:23
+6f4cec35-2a9f-4a20-b1a7-d69540dcee65,uaw.wedding,premium,47.2,29.5,medium,low,3,namesilo,,,29/09/2026 21:51
 ac97c1a7-9be7-40c0-9cee-7279e55140b6,ferny.wedding,available,32.49,32.49,medium,low,5,namesilo,,,18/08/2026 02:00
 8594ef46-8669-4be7-ad67-9e144c855509,written.wedding,available,26.08,26.08,high,low,7,spaceship,,,27/09/2026 18:44
 daf70d93-fdd1-4168-b7c8-24bd59fda875,twisted.wedding,available,32.49,32.49,high,low,7,namesilo,,,25/08/2026 01:43
 b895bad5-a1fd-45ee-87e1-2753568fb6d4,changeless.wedding,available,32.49,32.49,high,low,10,namesilo,,,12/08/2026 01:58
 7c04a22e-ca20-46a1-b96e-23662f2439f4,cheering.wedding,available,32.49,32.49,high,low,8,namesilo,,,12/08/2026 03:45
-eef66413-9b58-44c1-aa7e-7fb700d421e1,holes.wedding,available,32.49,32.49,medium,low,5,namesilo,,,
+eef66413-9b58-44c1-aa7e-7fb700d421e1,holes.wedding,available,32.49,32.49,high,low,5,namesilo,,,
 e9058a71-1bde-4139-9a79-6fc65a220f11,normally.wedding,available,32.49,32.49,medium,low,8,namesilo,,,28/09/2026 14:10
 bfa51032-0919-48fc-b736-3ea6a3e56fa5,eared.wedding,available,32.49,32.49,medium,low,5,namesilo,,,14/08/2026 14:39
 dc5fda1e-e1e9-42ec-81ff-207b0755d245,backstairs.wedding,available,32.49,32.49,medium,low,10,namesilo,,,08/08/2026 06:26
 5558d0fb-c41f-476d-a484-92ec0b80eb35,stadia.wedding,available,32.49,32.49,high,low,6,namesilo,,,17/09/2026 09:03
 91c5607a-5dff-4fac-b42e-95a9a665e25a,livermore.wedding,available,26.08,26.08,medium,low,9,spaceship,,,28/09/2026 10:16
+b1255cbb-d07a-4831-ac53-4b8dd9330b4e,rumours.wedding,available,26.08,26.08,medium,low,7,spaceship,,,30/09/2026 00:33
+e6afe7e2-c1cf-4edb-a11e-270bf3c664c6,dba.wedding,premium,,,high,low,3,,,,30/09/2026 01:16
 1d9cb468-cb88-4367-8e9b-1a09ca270783,ssr.wedding,premium,47.2,29.5,high,low,3,namesilo,,,25/09/2026 12:03
 611e92d6-5a94-4cbe-bc91-265510d12c86,confirm.wedding,available,32.49,32.49,high,low,7,namesilo,,,27/09/2026 05:57
-3537faa0-c831-49d4-9836-614b34a3695f,amerindian.wedding,available,32.49,32.49,medium,low,10,namesilo,,,03/09/2026 13:51
+3537faa0-c831-49d4-9836-614b34a3695f,amerindian.wedding,available,32.49,32.49,high,low,10,namesilo,,,03/09/2026 13:51
+38179738-2964-4ba7-9f7a-953c5b73710d,burner.wedding,available,26.08,26.08,high,low,6,spaceship,,,29/09/2026 11:49
+fcd8d8e7-fd30-4ea1-9601-1044bafee466,horseshoe.wedding,available,25.2,25.2,high,low,9,cloudflare,,,29/09/2026 19:10
 1df0cb5d-6ed0-40c0-9afb-1eecebf272be,shapeless.wedding,available,33.98,43.98,medium,low,9,namecheap,,,
-e0f568d1-27e0-4a74-8df1-884473bf689a,tone.wedding,premium,47.2,29.5,high,low,4,namesilo,,,
+e0f568d1-27e0-4a74-8df1-884473bf689a,tone.wedding,premium,41.6,26.08,high,low,4,spaceship,,,29/09/2026 19:30
 ad58971f-c746-4a0c-a8a5-c9d936f8851d,chester.wedding,available,49.99,49.99,high,low,7,godaddy,,,28/09/2026 01:40
 f8b1a43b-e620-438b-8886-3bb0fa858437,megan.wedding,available,32.49,32.49,medium,low,5,namesilo,,,26/09/2026 03:31
 695c0fa1-4bce-4690-b6d3-47bd1cd05698,bestiality.wedding,available,32.49,32.49,medium,low,10,namesilo,,,23/09/2026 10:39
@@ -55,10 +60,12 @@ f8b1a43b-e620-438b-8886-3bb0fa858437,megan.wedding,available,32.49,32.49,medium,
 09f1023b-751d-4b4a-9c18-3ab7a56b0e2b,mckenzie.wedding,available,32.49,32.49,high,low,8,namesilo,,,25/09/2026 12:28
 8de6ead3-fdee-49e9-af29-a863b9908e8a,sailors.wedding,available,25.2,25.2,medium,low,7,cloudflare,,,28/09/2026 13:06
 3baa056e-009b-4211-a17c-7d04162a46e1,disused.wedding,available,32.49,32.49,medium,low,7,namesilo,,,14/08/2026 13:28
+12428637-d88d-480a-8328-51796b08e5f4,incision.wedding,available,25.2,25.2,high,low,8,cloudflare,,,30/09/2026 01:58
 c1a1155d-7306-4796-b01c-9783de47bc1c,cooperate.wedding,available,25.2,25.2,high,low,9,cloudflare,,,28/09/2026 17:32
 799e37a1-bb72-4958-9435-4f4c7c132050,haig.wedding,available,25.2,25.2,medium,low,4,cloudflare,,,28/09/2026 12:12
 1f75baa6-9f7b-4198-83c4-fac4459c6d28,gonzalez.wedding,available,32.49,32.49,high,low,8,namesilo,,,25/09/2026 16:13
 a714f8ab-2b87-4ee3-800e-c822a41fe146,proximate.wedding,available,32.49,32.49,high,low,9,namesilo,,,09/09/2026 04:46
+03bad66b-9967-4e18-a003-e428901ae84d,sewage.wedding,available,32.49,32.49,high,low,6,namesilo,,,30/09/2026 02:49
 b95ea62f-edcc-424b-9d20-2a07a3705858,checked.wedding,available,32.49,32.49,high,low,7,namesilo,,,12/08/2026 03:36
 63517bf8-7456-46e5-9438-82fa8e8a05b9,seepage.wedding,available,32.49,32.49,medium,low,7,namesilo,,,04/09/2026 15:38
 6864cf59-631d-4891-8a7f-b2e53004026f,signaling.wedding,available,32.49,32.49,high,medium,9,namesilo,,,10/09/2026 08:00
@@ -70,18 +77,20 @@ f9bcfc05-18cc-47ff-9739-0ebe729ba932,demoralize.wedding,available,32.49,32.49,me
 7f841596-76ad-4a3f-82cb-f3e6e7fe82e4,bigram.wedding,available,32.49,32.49,medium,low,6,namesilo,,,23/09/2026 15:24
 d39c5aa4-a40f-4ebf-9084-66cbc6fddc13,principal.wedding,available,32.49,32.49,high,low,9,namesilo,,,27/09/2026 05:53
 d1fd1f2d-6502-4eb7-a82b-15eb408742c7,successors.wedding,available,32.49,32.49,medium,low,10,namesilo,,,20/09/2026 05:21
+8acb05f4-52b0-4bf6-a26a-593ed6a04d84,blogger.wedding,premium,,,high,high,7,,,,29/09/2026 17:59
 048ea306-0989-48b6-95c0-e304cb34855b,regrets.wedding,available,33.98,43.98,medium,low,7,namecheap,,,28/09/2026 15:15
 1408530c-c859-45ce-85aa-76638ae938ad,assembler.wedding,available,32.49,32.49,high,low,9,namesilo,,,20/09/2026 16:01
+22385fee-c878-4445-bbdd-f6932297c6fc,tit.wedding,premium,440,26.97,high,low,3,dynadot,,,29/09/2026 19:36
 8799bce7-19fe-46b6-8e08-f127929c8e37,surveys.wedding,available,32.49,32.49,medium,low,7,namesilo,,,17/09/2026 07:59
 b48689f5-1a79-41fb-a40f-e0786ba21f51,rivalrous.wedding,available,33.98,43.98,medium,low,9,namecheap,,,09/09/2026 18:06
 f1994ee6-64e1-486c-a4dd-205fbefa1218,arcadian.wedding,available,32.49,32.49,high,low,8,namesilo,,,06/08/2026 14:10
-b40e5f52-e9d8-417d-b9e0-77233d6417aa,hell.wedding,premium,242,29.5,high,low,4,namesilo,,,
+b40e5f52-e9d8-417d-b9e0-77233d6417aa,hell.wedding,premium,207.2,26.08,high,low,4,spaceship,,,29/09/2026 22:37
 5038f0f0-d779-4c1f-8812-3974c3356cfd,crows.wedding,available,33.98,43.98,high,low,5,namecheap,,,20/09/2026 17:41
 7cb7bb16-3f05-4767-9ebf-9b4a07bf95ab,bloomington.wedding,premium,96,29.5,medium,low,11,namesilo,,,27/09/2026 08:15
 459ea530-1b4b-451a-bad2-f1d561800551,innovate.wedding,available,32.49,32.49,high,low,8,namesilo,,,29/09/2026 02:37
 35b6a768-ca18-4d6d-8b33-d4858225bc8e,caring.wedding,available,32.49,32.49,high,low,6,namesilo,,,23/09/2026 13:03
 c736af3f-66f0-4bfe-a464-4fede2030346,swash.wedding,available,32.49,32.49,medium,low,5,namesilo,,,11/08/2026 01:05
-16fa0216-3978-457f-84e9-21fa03515cc4,lunch.wedding,resell,,,high,low,5,"GoDaddy.com, LLC",26/01/2021 23:50,26/01/2027 23:50,26/09/2026 07:21
+16fa0216-3978-457f-84e9-21fa03515cc4,lunch.wedding,resell,,,high,low,5,"GoDaddy.com, LLC",26/01/2021 23:50,26/01/2027 23:50,29/09/2026 13:42
 8e482b99-85b4-4ff0-8b2a-7986e5319d72,demons.wedding,available,32.49,32.49,low,low,6,namesilo,,,25/09/2026 21:42
 80fd8618-a611-406f-ac84-627a7e101bf4,analyzer.wedding,available,32.49,32.49,high,low,8,namesilo,,,19/09/2026 01:55
 dd8248fc-04d3-4ccd-90d5-43d37199bda6,bata.wedding,available,32.49,32.49,medium,low,4,namesilo,,,22/09/2026 13:09
@@ -107,10 +116,13 @@ fd41584b-41f3-4822-b67e-1f3ee3b362a9,ambulance.wedding,available,32.49,32.49,hig
 72bc3354-f969-41e4-899c-e4cf4c458096,gland.wedding,available,25.2,25.2,medium,low,5,cloudflare,,,29/09/2026 07:05
 c08dda69-170f-4f3f-9dc4-1f3bc480dab3,bankroll.wedding,available,32.49,32.49,high,low,8,namesilo,,,22/09/2026 02:49
 b85b6aeb-86b9-4202-8260-5c00865aad20,holly.wedding,premium,88,26.97,high,low,5,dynadot,,,29/09/2026 05:03
+5dc3b1e3-6b90-42fe-92bc-443179b48ca7,hepatitis.wedding,available,26.08,26.08,high,low,9,spaceship,,,29/09/2026 19:09
+d4172f2f-33ea-422d-97fe-8a6f209add08,somaliland.wedding,available,32.49,32.49,medium,low,10,namesilo,,,29/09/2026 09:30
 b2d1ed0c-4ad0-42c4-9ee1-8242a4652ade,pushkin.wedding,available,32.49,32.49,high,low,7,namesilo,,,18/09/2026 05:07
 b532b6a0-c891-45fc-a038-92ea60f1759b,haploid.wedding,available,32.49,32.49,medium,low,7,namesilo,,,20/08/2026 23:55
 407918cf-dc32-44c6-896d-305cb1f6c9fa,totaled.wedding,available,33.98,43.98,medium,low,7,namecheap,,,28/09/2026 09:24
 3c1fbf5f-ccd7-41e0-8697-22b3252671b0,kinsey.wedding,available,33.98,43.98,high,low,6,namecheap,,,18/09/2026 06:26
+406180d0-ed29-4bb7-bb16-e4c244a8417a,kda.wedding,premium,47.2,29.5,medium,low,3,namesilo,,,29/09/2026 17:27
 1be13c85-3590-40da-8d3b-7aabce0f2f35,factorial.wedding,available,33.98,43.98,high,low,9,namecheap,,,17/08/2026 20:29
 bcd6d22e-2dd9-41fe-a7c4-19e25b9dfd78,accurately.wedding,available,32.49,32.49,high,low,10,namesilo,,,28/09/2026 11:42
 90ea8a8e-81aa-4005-9ff9-7f90eb0739de,alibi.wedding,available,32.49,32.49,high,low,5,namesilo,,,18/09/2026 07:24
@@ -129,7 +141,8 @@ aeda7c2c-ce26-4657-985d-6307aa9ffebd,lavishly.wedding,available,32.49,32.49,medi
 8f358652-c07a-4bb6-a0a2-b400629c632c,carnival.wedding,available,32.49,32.49,high,low,8,namesilo,,,24/09/2026 16:10
 aff6e38e-a23e-42e8-a094-ebb7ff5f7ba1,irresponsible.wedding,available,26.08,26.08,medium,low,13,spaceship,,,28/09/2026 21:26
 169fa77b-ab68-4277-a151-7efb387c82d3,broken.wedding,available,32.49,32.49,high,low,6,namesilo,,,23/09/2026 09:56
-dcd0d512-7863-49e6-b6fb-1425acdd3750,pawpaw.wedding,available,32.49,32.49,medium,low,6,namesilo,,,20/09/2026 14:11
+981d1670-5c36-4fe2-ace2-fc002940ef09,landslide.wedding,available,32.49,32.49,high,low,9,namesilo,,,30/09/2026 02:07
+dcd0d512-7863-49e6-b6fb-1425acdd3750,pawpaw.wedding,available,32.49,32.49,high,low,6,namesilo,,,20/09/2026 14:11
 fee9f41e-bf3b-4970-8fdd-a4ecc503b1a2,unpatented.wedding,available,32.49,32.49,medium,low,10,namesilo,,,12/09/2026 16:29
 086df576-462b-42c6-8b94-71116f708df3,leggy.wedding,available,32.49,32.49,medium,low,5,namesilo,,,22/08/2026 22:57
 7af1ac29-5254-4dd2-94d5-27644337f36b,bearable.wedding,available,32.49,32.49,medium,low,8,namesilo,,,09/08/2026 04:27
@@ -140,9 +153,10 @@ d417a3e9-91f2-454b-af85-00058417f82e,ayrshire.wedding,available,32.49,32.49,high
 57a35394-a2a9-482f-8e8b-2fda111470cf,peacefully.wedding,available,33.98,43.98,high,low,10,namecheap,,,15/09/2026 19:23
 e37c6915-324c-4df7-9f88-a75860337109,rootbound.wedding,available,32.49,32.49,medium,low,9,namesilo,,,09/09/2026 00:46
 649946e3-edf6-4873-846a-abda8a5273e9,performing.wedding,available,33.98,43.98,high,low,10,namecheap,,,
+8a8ae968-2496-4942-a5bf-d1d54f6cb88a,bumped.wedding,available,26.08,26.08,medium,low,6,spaceship,,,29/09/2026 21:29
 d1523a33-736e-425e-a7d0-71730af643e3,rustle.wedding,available,32.49,32.49,high,low,6,namesilo,,,13/09/2026 11:37
 38a3b88f-9f22-4946-b6f3-5a44f1d367b9,monkish.wedding,available,32.49,32.49,medium,low,7,namesilo,,,25/08/2026 04:53
-794ca6e2-6220-4cc7-baf8-94a0971b2831,unhurried.wedding,available,32.49,32.49,medium,low,9,namesilo,,,12/09/2026 12:39
+794ca6e2-6220-4cc7-baf8-94a0971b2831,unhurried.wedding,available,32.49,32.49,high,low,9,namesilo,,,12/09/2026 12:39
 8d86e8fd-8791-4c56-b453-a44cc268ddbf,cooker.wedding,available,33.98,43.98,high,low,6,namecheap,,,24/09/2026 18:03
 df7ebea9-b255-4679-a0bf-3a8697eaafa5,acer.wedding,available,33.98,43.98,high,low,4,namecheap,,,16/09/2026 23:32
 c7169114-5f38-47cc-97f4-aa46c0df46a1,convergent.wedding,available,32.49,32.49,high,low,10,namesilo,,,12/08/2026 23:50
@@ -152,8 +166,11 @@ dd7c9dd7-70bd-4b30-bd6f-afae8d885489,pupal.wedding,available,32.49,32.49,high,me
 cfd90a54-8ca8-47d7-b4c9-cfb5be03283f,barometric.wedding,available,33.98,43.98,medium,low,10,namecheap,,,08/08/2026 20:06
 09756a5e-6bc0-491c-942c-07074c2daf70,pester.wedding,available,32.49,32.49,medium,low,6,namesilo,,,21/09/2026 17:02
 07092b73-c2d4-4776-a78b-18a104d368c2,beliefs.wedding,available,26.97,26.97,medium,low,7,dynadot,,,28/09/2026 17:24
+6060dd32-dcc3-417c-9a0f-45450b4aabb8,jeanette.wedding,available,32.49,32.49,high,low,8,namesilo,,,29/09/2026 09:37
 bc333072-b552-4552-a0f2-ee7193bfc890,preview.wedding,available,32.49,32.49,high,low,7,namesilo,,,
 4968ffef-9fbc-4a0c-a173-5b3efaffd2fa,agaricus.wedding,available,32.49,32.49,medium,low,8,namesilo,,,17/09/2026 16:23
+9eaf912b-9de0-4f0f-aacc-2f5e94fa66bc,conventions.wedding,premium,5520,29.5,medium,low,11,namesilo,,,29/09/2026 16:17
+4c91dd58-284d-4c2a-8eb0-7aa5294e86a3,installing.wedding,available,26.08,26.08,high,low,10,spaceship,,,30/09/2026 02:00
 68670064-fef3-4fef-8172-19fbf6e2c089,hermit.wedding,available,32.49,32.49,high,low,6,namesilo,,,09/09/2026 11:42
 3e89cef3-b180-4bd3-9dc1-3fe0753c83ed,syllabic.wedding,available,32.49,32.49,high,low,8,namesilo,,,11/09/2026 05:58
 94d695a7-f00b-4edc-aa1c-cc5eff88bfb7,glorified.wedding,available,32.49,32.49,high,low,9,namesilo,,,11/08/2026 17:29
@@ -161,14 +178,18 @@ bc333072-b552-4552-a0f2-ee7193bfc890,preview.wedding,available,32.49,32.49,high,
 bd3c4f4f-8c4a-42b2-b4cb-047ec86dafdc,ergonomics.wedding,available,33.98,43.98,high,low,10,namecheap,,,23/09/2026 17:53
 28ba4068-8290-4a1a-8d76-8cf794066390,predacious.wedding,available,32.49,32.49,high,medium,10,namesilo,,,09/09/2026 01:21
 34b21a4c-7d3c-4343-8ca7-c344cdb3be56,notions.wedding,available,32.49,32.49,medium,low,7,namesilo,,,
+3224a68a-c8d7-48d3-8cfd-b4be091ca2e1,taps.wedding,available,26.08,26.08,high,low,4,spaceship,,,29/09/2026 20:29
 92d49c12-2032-4dea-ac1f-71b5972d7973,teeny.wedding,available,32.49,32.49,high,low,5,namesilo,,,10/08/2026 08:12
+b901610c-b46c-444e-8d39-e2eefd4b105c,glaser.wedding,available,32.49,32.49,high,low,6,namesilo,,,30/09/2026 01:21
 1b31527d-7f7a-4e95-931f-f0b90e11b9e6,windy.wedding,available,32.49,32.49,high,low,5,namesilo,,,22/09/2026 22:44
 c1be1f44-685a-464b-8fc7-a4be98cbe898,bunghole.wedding,available,32.49,32.49,medium,low,8,namesilo,,,20/09/2026 09:34
 900f4eb2-6dcb-48ed-b434-9c37d5d6ef27,parks.wedding,available,32.49,32.49,high,low,5,namesilo,,,
-eade5ffc-0172-486a-b1ab-7457f295dd5b,numerical.wedding,available,32.49,32.49,medium,low,9,namesilo,,,03/09/2026 22:52
+eade5ffc-0172-486a-b1ab-7457f295dd5b,numerical.wedding,available,32.49,32.49,high,low,9,namesilo,,,03/09/2026 22:52
+960c6b74-d655-4b57-858a-8f31b323da4e,govern.wedding,available,26.08,26.08,high,low,6,spaceship,,,29/09/2026 13:54
 57535fae-72dd-4452-9ed4-ce1f669ecd28,surplus.wedding,available,32.49,32.49,high,low,7,namesilo,,,17/08/2026 16:09
 a0760736-259a-4d0d-9206-ecd097309b68,strapless.wedding,available,32.49,32.49,high,low,9,namesilo,,,10/09/2026 21:55
-7361c488-c573-4827-9a55-8440365c79d0,gifts.wedding,premium,47.2,47.2,medium,low,5,namesilo,,,25/09/2026 17:25
+7361c488-c573-4827-9a55-8440365c79d0,gifts.wedding,premium,47.2,47.2,high,low,5,namesilo,,,25/09/2026 17:25
+42e0ec83-36a3-43ff-8cb6-052fe0d29ce9,migraine.wedding,available,32.49,32.49,high,low,8,namesilo,,,30/09/2026 01:52
 a87ddbe0-941b-4e0a-8a23-325b8303f7c1,ivory.wedding,available,32.49,32.49,high,low,5,namesilo,,,04/09/2026 01:20
 2ee5808b-7d10-4289-be2d-53eadab74b82,scabby.wedding,available,32.49,32.49,medium,low,6,namesilo,,,09/09/2026 22:13
 01556f0c-118a-456d-81cc-138319507be2,pentagon.wedding,available,32.49,32.49,high,low,8,namesilo,,,28/09/2026 06:34
@@ -195,20 +216,23 @@ cfab4237-7f09-4b22-a4b4-aa47c0a87d9f,owlish.wedding,available,32.49,32.49,medium
 ec68cd10-5957-4b30-92d6-fb997a6d7c74,spatially.wedding,available,32.49,32.49,medium,low,9,namesilo,,,16/09/2026 05:56
 57018b15-8099-41f5-9b6b-c6bbfe0d4183,laying.wedding,available,32.49,32.49,high,low,6,namesilo,,,25/09/2026 22:34
 d266eedd-faa2-4b5a-b445-4e6475e34e0b,parentally.wedding,available,33.98,43.98,medium,low,10,namecheap,,,15/09/2026 18:57
+43517926-c62a-4d0f-bc15-367a4bc3a5a2,badges.wedding,available,32.49,32.49,medium,low,6,namesilo,,,29/09/2026 17:33
 fd759d33-ac0b-47d2-a96a-77e04d8eca4f,clive.wedding,available,33.98,43.98,high,low,5,namecheap,,,22/09/2026 07:05
 10842b21-86cf-491a-a8fc-2020d4995824,phil.wedding,available,32.49,32.49,high,medium,4,namesilo,,,
 62240612-924d-4d74-8843-ada09b6b12bc,cupric.wedding,available,32.49,32.49,medium,low,6,namesilo,,,13/08/2026 10:49
 f5574fde-cdcb-4b8a-8bd1-47bddb1abf93,farewell.wedding,available,32.49,32.49,high,low,8,namesilo,,,28/09/2026 01:53
 5f9adfdd-ad23-4a88-86d5-2e86603da0d9,riotous.wedding,available,46.99,46.99,medium,low,7,name.com,,,13/08/2026 20:26
 f2f4acf1-0204-4992-8b22-92c01d5f43c3,ought.wedding,available,32.49,32.49,high,low,5,namesilo,,,
+a1e9ec8e-7bcf-4e52-94b6-6881fb1571c5,addams.wedding,available,25.2,25.2,medium,low,6,cloudflare,,,29/09/2026 23:22
+4a16869c-1505-424a-9630-e0cdb1bc3c07,vega.wedding,available,26.08,26.08,high,medium,4,spaceship,,,29/09/2026 07:30
 f18ae3b9-8994-4869-833f-477bbb5b0a5e,tierce.wedding,available,32.49,32.49,medium,low,6,namesilo,,,
-8dcdc492-d1bf-4b84-a687-b04ab86af87d,effect.wedding,available,32.49,32.49,high,low,6,namesilo,,,
+8dcdc492-d1bf-4b84-a687-b04ab86af87d,effect.wedding,available,32.49,32.49,high,low,6,namesilo,,,29/09/2026 11:08
 accb8c50-5787-4ce1-9f90-229d3f86f48b,birdcage.wedding,available,33.98,43.98,high,low,8,namecheap,,,23/09/2026 20:32
 036e82cd-0932-4bc9-9aed-0003259face2,vaulted.wedding,available,32.49,32.49,high,low,7,namesilo,,,14/08/2026 15:39
 5c11e774-17d0-406a-bb0b-e111a8988f3f,thrasher.wedding,available,33.98,43.98,medium,low,8,namecheap,,,18/09/2026 13:24
 6319703e-b6b0-47e9-8c9b-593f22a9a5c5,eritrean.wedding,available,32.49,32.49,high,low,8,namesilo,,,17/08/2026 12:22
 dffcb24f-65e3-4909-ace1-85d8f128738c,cesium.wedding,available,32.49,32.49,medium,low,6,namesilo,,,20/09/2026 23:15
-3a20a515-2bfa-4dab-b44a-848a6cfb65c7,agog.wedding,available,33.98,43.98,medium,low,4,namecheap,,,
+3a20a515-2bfa-4dab-b44a-848a6cfb65c7,agog.wedding,available,33.98,43.98,high,low,4,namecheap,,,
 5fc44456-e1db-462f-b07f-ee70687901e4,acquiring.wedding,available,33.98,43.98,high,low,9,namecheap,,,17/09/2026 02:42
 d4dc330c-ddf1-4d9c-961c-6a1a65c7b300,intune.wedding,available,32.49,32.49,high,low,7,namesilo,,,17/09/2026 12:54
 c1aa555b-8a28-466f-9891-159876629a81,pillock.wedding,available,32.49,32.49,low,low,7,namesilo,,,10/09/2026 23:13
@@ -230,45 +254,49 @@ a809db5e-7a8a-4e83-b4c9-4b84a53cbc1a,provinces.wedding,available,32.49,32.49,med
 e12c3a58-8952-4088-9036-1adfba579f24,asinine.wedding,available,32.49,32.49,low,low,7,namesilo,,,07/08/2026 02:35
 78d31333-5856-4ae4-bc35-696df73c0ecd,stand.wedding,available,25.2,25.2,high,low,5,cloudflare,,,29/09/2026 00:58
 56bdc1e2-cfff-4a17-ae4c-5b79171a2a7e,empathic.wedding,available,32.49,32.49,high,low,8,namesilo,,,16/08/2026 16:41
-a48e0384-60c5-4a8a-b025-63cb5140963f,grouped.wedding,available,33.98,43.98,medium,low,7,namecheap,,,20/08/2026 20:22
+a48e0384-60c5-4a8a-b025-63cb5140963f,grouped.wedding,available,33.98,43.98,high,low,7,namecheap,,,20/08/2026 20:22
 910730b0-e948-444a-b832-f68961437f49,goodman.wedding,available,33.98,43.98,high,low,7,namecheap,,,23/09/2026 08:16
-db4276ee-7d8d-40c6-8ef6-7824a088ec33,making.wedding,available,32.49,32.49,high,low,6,namesilo,,,
-75d9a974-d2ac-4fcd-9312-5ec6793fc8a9,suppose.wedding,available,32.49,32.49,high,low,7,namesilo,,,
+db4276ee-7d8d-40c6-8ef6-7824a088ec33,making.wedding,available,25.2,25.2,high,low,6,cloudflare,,,29/09/2026 14:44
+75d9a974-d2ac-4fcd-9312-5ec6793fc8a9,suppose.wedding,available,32.49,32.49,high,low,7,namesilo,,,29/09/2026 11:02
 307e5cf2-04c3-4d3f-b8c2-21016d85cd99,botanical.wedding,available,32.49,32.49,high,low,9,namesilo,,,10/08/2026 20:47
 7352d3c3-22e6-4733-97d5-cb81756298be,purity.wedding,available,32.49,32.49,high,low,6,namesilo,,,28/09/2026 15:09
 4951faaa-01e3-4263-afe0-ea7e38e0cb16,carnegie.wedding,available,32.49,32.49,high,low,8,namesilo,,,19/09/2026 04:42
 d1d1bb50-fb1f-48da-9496-b6377286e342,kenyan.wedding,available,32.49,32.49,high,low,6,namesilo,,,22/08/2026 15:34
 ba7b1821-c3d0-41cd-b6bb-d01d91246a3f,taproom.wedding,available,32.49,32.49,high,low,7,namesilo,,,22/09/2026 03:42
 52bd8aa9-a278-4d69-a6bf-02ab6c56de0c,stately.wedding,available,32.49,32.49,high,low,7,namesilo,,,08/08/2026 20:22
-0f91b8bc-9d39-4515-92db-53471e987307,weave.wedding,available,43.98,,high,low,5,namecheap,,,
+0f91b8bc-9d39-4515-92db-53471e987307,weave.wedding,available,32.49,32.49,high,low,5,namesilo,,,30/09/2026 04:04
 c064af04-3e2b-4879-80df-15b3f092e34a,bounds.wedding,available,26.08,26.08,medium,low,6,spaceship,,,29/09/2026 00:15
 935ebefb-ac46-40d8-aa92-447aeb5e3568,packing.wedding,available,26.26,26.26,high,low,7,porkbun,,,29/09/2026 00:21
 3575621b-6e5d-44c6-984f-2ffa568fe3d6,hats.wedding,available,32.49,32.49,high,low,4,namesilo,,,18/09/2026 07:32
 948386c6-1581-4930-be4d-4c5a24909794,stably.wedding,available,32.49,32.49,high,low,6,namesilo,,,16/09/2026 06:43
 5ce18731-6ef9-4e1c-8e5e-0308225f0036,million.wedding,available,33.98,43.98,high,low,7,namecheap,,,25/09/2026 20:09
 9c857706-85cc-442d-a912-0a00e1a37a2e,esthetic.wedding,available,33.98,43.98,high,low,8,namecheap,,,21/09/2026 21:16
+c0d61114-ab01-47c6-a8a0-883bea65282d,correctional.wedding,available,26.08,26.08,medium,low,12,spaceship,,,29/09/2026 14:55
 07aa4228-02a7-4516-9de4-851b0bc5872e,curved.wedding,available,32.49,32.49,high,low,6,namesilo,,,13/08/2026 11:47
 f34ecdcc-12d7-4072-bb33-aa1e8c1ece65,pizzeria.wedding,available,32.49,32.49,high,low,8,namesilo,,,
 689132ae-e3b2-4abb-af7d-099be31976f4,designing.wedding,available,32.49,32.49,high,low,9,namesilo,,,14/08/2026 03:45
 c005580a-25ff-4446-9941-7ed5cbb763e1,graphics.wedding,available,25.2,25.2,high,low,8,cloudflare,,,28/09/2026 22:24
 e43c4eb0-8492-4747-a107-f031c0def9c3,underived.wedding,available,32.49,32.49,medium,low,9,namesilo,,,12/09/2026 07:29
 c6ef2b64-5b51-4e57-9b7a-71b7fe75b0b0,uninvited.wedding,available,32.49,32.49,high,low,9,namesilo,,,12/09/2026 13:33
-3c1093b6-a627-4aad-9fb1-f646e78d88f4,peoples.wedding,available,32.49,32.49,medium,low,7,namesilo,,,29/09/2026 01:49
+3c1093b6-a627-4aad-9fb1-f646e78d88f4,peoples.wedding,available,32.49,32.49,high,low,7,namesilo,,,29/09/2026 01:49
 8544d494-e723-4608-ba73-ad65ed7b1d0b,various.wedding,available,26.08,26.08,high,low,7,spaceship,,,28/09/2026 10:11
-706dc218-5e09-42a5-815f-80560ac710fd,laugh.wedding,available,32.49,32.49,high,low,5,namesilo,,,
+706dc218-5e09-42a5-815f-80560ac710fd,laugh.wedding,available,26.08,26.08,high,low,5,spaceship,,,29/09/2026 20:26
 5a5aa361-7f7b-48f7-8378-7b6cd29aacb6,coffeeberry.wedding,available,32.49,32.49,high,low,12,namesilo,,,
 b4f58320-e6a1-4ac6-8fad-86488281654b,benighted.wedding,available,32.49,32.49,low,low,9,namesilo,,,08/09/2026 09:10
+e50d5656-7012-4da2-873c-a26785304ce9,doses.wedding,available,26.08,26.08,medium,low,5,spaceship,,,29/09/2026 17:50
 b8d76323-1ca4-40d6-8666-21d48645da39,over.wedding,premium,47.2,29.5,high,low,4,namesilo,,,22/09/2026 00:56
 c2fabbe6-c23a-45f1-bfcb-1917c33b2981,vestigial.wedding,available,32.49,32.49,medium,low,9,namesilo,,,13/09/2026 04:54
 faa9cc4e-07bb-438f-beda-95e8302dbad5,herod.wedding,available,26.08,26.08,medium,low,5,spaceship,,,28/09/2026 14:26
 66c4581d-c630-411e-8680-5ede52e503d2,pitchy.wedding,available,32.49,32.49,medium,low,6,namesilo,,,12/08/2026 13:45
 ff426275-4a1d-4e80-a1b1-ee6ed02fbcc1,merchants.wedding,available,33.98,43.98,high,low,9,namecheap,,,18/09/2026 04:36
 69caa9f2-e8d2-4f16-a1e3-a93275e350a7,footing.wedding,available,32.49,32.49,high,low,7,namesilo,,,22/09/2026 11:02
+acb48dac-b90e-481e-b226-f2607d31cf0a,narrates.wedding,available,26.26,26.26,medium,low,8,porkbun,,,29/09/2026 17:58
 e6e4873e-a3e7-44bf-9ec1-b15a30f6d9de,kirkland.wedding,available,,,high,high,8,,,,
+7c0dd4f6-ee3d-495f-9739-786725afbd7b,valladolid.wedding,available,32.49,32.49,medium,low,10,namesilo,,,29/09/2026 22:02
 06a9fbe1-287f-4fdd-b0a2-945e4499951c,franchise.wedding,available,33.98,43.98,high,low,9,namecheap,,,24/09/2026 21:02
 410d6399-c81a-42a9-a064-13877e98005c,brigand.wedding,available,33.98,43.98,medium,low,7,namecheap,,,22/09/2026 01:20
-f4d066f9-f2b6-42e8-85db-f86239bd2fae,folksy.wedding,available,32.49,32.49,medium,low,6,namesilo,,,13/08/2026 04:22
-1ee2b0b6-22db-4e09-8463-eaf2156941ab,means.wedding,available,43.98,,high,low,5,namecheap,,,
+f4d066f9-f2b6-42e8-85db-f86239bd2fae,folksy.wedding,available,32.49,32.49,high,low,6,namesilo,,,13/08/2026 04:22
+1ee2b0b6-22db-4e09-8463-eaf2156941ab,means.wedding,available,33.98,43.98,high,low,5,namecheap,,,30/09/2026 04:10
 b1cbbb93-833d-42cf-bd58-ba5599d89184,emulous.wedding,available,33.98,43.98,medium,low,7,namecheap,,,16/08/2026 21:03
 82bf42fc-ac5d-4be0-9429-29e544af9173,jacobs.wedding,available,26.08,26.08,high,low,6,spaceship,,,28/09/2026 20:14
 815b21ab-893a-4f29-b307-c1cc85782a45,olympics.wedding,available,32.49,32.49,high,low,8,namesilo,,,
@@ -278,15 +306,15 @@ b1cbbb93-833d-42cf-bd58-ba5599d89184,emulous.wedding,available,33.98,43.98,mediu
 1a886ad8-38c4-4dd4-9d21-aed7c257b316,somewhat.wedding,available,32.49,32.49,high,low,8,namesilo,,,25/09/2026 12:06
 e91c7d41-3c2d-4607-ad68-ce1452c6a9dd,wearing.wedding,available,32.49,32.49,medium,low,7,namesilo,,,11/09/2026 16:26
 24e268a5-c243-44e0-b934-e00f029dcb16,redhead.wedding,available,32.49,32.49,high,low,7,namesilo,,,21/09/2026 10:48
-67cee50c-50be-4d58-9b64-d078a766f901,complement.wedding,available,32.49,32.49,high,low,10,namesilo,,,
+67cee50c-50be-4d58-9b64-d078a766f901,complement.wedding,available,33.98,43.98,high,low,10,namecheap,,,29/09/2026 10:29
 d168155a-74df-4a02-b039-ad5c26c24870,comparably.wedding,available,32.49,32.49,medium,low,10,namesilo,,,14/09/2026 07:37
-6846a35f-b528-4ad2-aaaa-6158980edfee,rejection.wedding,available,32.49,32.49,medium,low,9,namesilo,,,
+6846a35f-b528-4ad2-aaaa-6158980edfee,rejection.wedding,available,32.49,32.49,high,low,9,namesilo,,,
 61b4731c-3b68-4721-935b-09b027ab8b43,persian.wedding,premium,854,29.5,high,low,7,namesilo,,,22/08/2026 09:41
 e6e96a00-fd8b-4155-8cb5-44ee2269da14,nookie.wedding,available,32.49,32.49,medium,low,6,namesilo,,,18/08/2026 17:31
 5de1d201-f622-4c4e-8641-cb1996b46a20,canon.wedding,available,32.49,32.49,high,medium,5,namesilo,,,19/09/2026 11:56
 c6608698-28bb-4553-b90f-3c5046f74096,heighten.wedding,available,33.98,43.98,high,low,8,namecheap,,,12/08/2026 19:31
 0316ab4b-e46e-4624-a324-c119dcd7b053,inch.wedding,available,33.98,43.98,high,low,4,namecheap,,,25/09/2026 08:00
-0a93fb92-67ab-4e50-b362-d8e8cb45eea8,annular.wedding,available,,,medium,low,7,,,,
+0a93fb92-67ab-4e50-b362-d8e8cb45eea8,annular.wedding,available,,,high,low,7,,,,
 99041554-982b-4f75-83c9-f38d1be16ee5,bowelless.wedding,available,32.49,32.49,high,medium,9,namesilo,,,10/08/2026 23:08
 a80dc05b-b03c-412b-9b63-c10729e81975,unguarded.wedding,available,32.49,32.49,medium,low,9,namesilo,,,12/09/2026 11:39
 faed9d3d-025c-4dd0-8c44-eedb86a543c6,axiomatic.wedding,available,32.49,32.49,medium,low,9,namesilo,,,05/08/2026 23:27
@@ -303,7 +331,7 @@ b25f077a-95cc-45b9-8fbd-8ce070fef70c,strife.wedding,available,32.49,32.49,high,l
 f939dbb3-f5fc-44da-976b-a03cce9ff4ce,remainder.wedding,available,32.49,32.49,high,low,9,namesilo,,,09/09/2026 15:03
 8eea06da-c59c-4f0d-bbaf-8acff7a756e0,gratifying.wedding,available,32.49,32.49,high,low,10,namesilo,,,17/08/2026 09:19
 cff5ec9b-429e-43f6-bdaf-353f0101b3f0,glycogen.wedding,available,32.49,32.49,medium,low,8,namesilo,,,19/09/2026 08:46
-89d677e0-31bf-4024-a306-5afe20d69ac3,turkish.wedding,premium,50,46.99,medium,low,7,name.com,,,11/09/2026 21:18
+89d677e0-31bf-4024-a306-5afe20d69ac3,turkish.wedding,premium,50,46.99,high,low,7,name.com,,,11/09/2026 21:18
 37c07d7f-786b-4757-b8b9-ed0c194562a3,jets.wedding,premium,44,26.97,high,low,4,dynadot,,,28/09/2026 12:04
 34444af4-a865-4029-aafb-649909200f54,laden.wedding,available,32.49,32.49,medium,low,5,namesilo,,,22/08/2026 18:30
 f79cdb41-6105-40f1-9c32-e454e82678c6,nasdaq.wedding,available,33.98,43.98,high,low,6,namecheap,,,28/09/2026 02:27
@@ -320,38 +348,41 @@ ceda46ad-a9cd-4ca0-b35f-4ae431e5b5a9,abkhazian.wedding,available,32.49,32.49,med
 b414d471-26c3-4498-97de-10705992b880,nitrogen.wedding,available,46.99,46.99,high,low,8,name.com,,,20/09/2026 23:37
 7cceb2d0-a108-4c74-9f7b-3b3142e14483,catalogue.wedding,available,32.49,32.49,high,low,9,namesilo,,,24/09/2026 13:08
 3f1ef3c5-6df0-46c0-983f-a3e24b14ac16,lunate.wedding,available,32.49,32.49,medium,low,6,namesilo,,,13/08/2026 06:12
-6eace793-05f8-4fa2-888a-efa0ec963698,dishonor.wedding,available,32.49,32.49,medium,low,8,namesilo,,,
+6eace793-05f8-4fa2-888a-efa0ec963698,dishonor.wedding,available,26.26,26.26,high,low,8,porkbun,,,29/09/2026 15:45
 ac8632dd-0e54-4106-81d3-2ff9917185c2,boring.wedding,available,32.49,32.49,high,low,6,namesilo,,,23/09/2026 00:20
 497752c1-ee9c-470d-9db2-0d9ead9ef5c1,crops.wedding,available,26.08,26.08,medium,low,5,spaceship,,,29/09/2026 04:57
 2b33df9f-13a5-4f9e-a6ed-f7050fb8a9f0,mcdaniel.wedding,available,32.49,32.49,medium,low,8,namesilo,,,29/09/2026 04:34
+2fb235de-995a-44d3-a867-b78515f1a6b3,veronica.wedding,available,33.98,43.98,high,low,8,namecheap,,,30/09/2026 02:57
 0a711d3c-602d-41bb-b723-8474cf93be91,affections.wedding,available,32.49,32.49,medium,low,10,namesilo,,,17/09/2026 07:05
-ccc7ec0b-5331-49aa-ba45-9c91941f10d7,envious.wedding,available,33.98,43.98,medium,low,7,namecheap,,,24/09/2026 01:02
-750bdc44-a721-4db3-a2be-9fe9ca3a17db,disobedience.wedding,available,33.98,43.98,medium,low,12,namecheap,,,16/09/2026 12:19
+ccc7ec0b-5331-49aa-ba45-9c91941f10d7,envious.wedding,available,33.98,43.98,high,low,7,namecheap,,,24/09/2026 01:02
+750bdc44-a721-4db3-a2be-9fe9ca3a17db,disobedience.wedding,available,33.98,43.98,high,low,12,namecheap,,,16/09/2026 12:19
 10e54134-2447-4e04-b331-cc2563350937,idly.wedding,available,32.49,32.49,high,low,4,namesilo,,,15/09/2026 01:38
 9ebb0970-03a6-41b5-9529-7c0234b1d5c9,harmonious.wedding,available,32.49,32.49,high,low,10,namesilo,,,21/08/2026 01:03
 8d2b2c65-b7a0-44fd-a8fa-3ee97103be80,grumbler.wedding,available,32.49,32.49,medium,low,8,namesilo,,,23/09/2026 06:49
 6b72f1cb-dc95-4c7a-b266-8baeb24c225c,tracey.wedding,available,32.49,32.49,medium,low,6,namesilo,,,28/09/2026 21:51
 7f9dba9a-9933-4b2f-85a8-507bbd552a8b,keith.wedding,available,32.49,32.49,high,low,5,namesilo,,,17/09/2026 22:02
-aebf6319-98b8-491a-a184-69d424169a4e,cleaver.wedding,available,32.49,32.49,medium,low,7,namesilo,,,
+aebf6319-98b8-491a-a184-69d424169a4e,cleaver.wedding,available,32.49,32.49,medium,low,7,namesilo,,,29/09/2026 09:55
 393cda53-3f3c-4c13-ab98-e85a3aa4016c,dopy.wedding,available,32.49,32.49,medium,low,4,namesilo,,,14/08/2026 16:02
 314d6f80-e458-4e3a-a667-0c99742acbc6,sunnily.wedding,available,32.49,32.49,medium,low,7,namesilo,,,14/09/2026 06:41
 f7e22296-1513-4a05-92d0-81ba52e19139,pretorial.wedding,available,32.49,32.49,high,medium,9,namesilo,,,09/09/2026 01:02
 da1b9706-0078-4457-80fe-81ffb19a3995,relate.wedding,available,32.49,32.49,high,low,6,namesilo,,,07/08/2026 07:03
 9c3e3793-d6df-4b9c-b2b5-befbebc5c5b3,exchange.wedding,available,32.49,32.49,high,low,8,namesilo,,,23/09/2026 13:38
 e9a965a5-f3bd-4a35-a870-0d39a02d7d2f,vertical.wedding,available,33.98,43.98,high,low,8,namecheap,,,24/09/2026 14:52
+9ab6af67-40bd-4657-93cb-40b16f37e311,rendering.wedding,available,26.08,26.08,high,low,9,spaceship,,,29/09/2026 19:21
 914e3f21-c2b9-47fc-a85b-d29314294b29,longroot.wedding,available,33.98,43.98,medium,low,8,namecheap,,,20/09/2026 03:40
 90899cda-35b8-4795-804e-9618c4b68c39,cuttable.wedding,available,32.49,32.49,medium,low,8,namesilo,,,12/08/2026 04:30
 b4f828f0-e438-43bf-a5a6-b60545ecc547,bleb.wedding,available,32.49,32.49,medium,low,4,namesilo,,,24/09/2026 05:21
 7e753049-f241-45c9-a2d0-c05a25b2b120,shady.wedding,available,32.49,32.49,high,low,5,namesilo,,,18/08/2026 09:37
 aa764dc8-ea30-4841-a670-03ab20ea82a0,tenner.wedding,available,32.49,32.49,medium,low,6,namesilo,,,21/09/2026 10:53
-505416c1-0ef7-4a91-809f-2af92c4ae9ae,damascene.wedding,available,46.99,46.99,medium,low,9,name.com,,,13/08/2026 16:07
-b3184852-7a86-4f15-928b-8a7bf55bde3e,saigon.wedding,available,33.98,43.98,medium,low,6,namecheap,,,28/09/2026 10:04
+505416c1-0ef7-4a91-809f-2af92c4ae9ae,damascene.wedding,available,46.99,46.99,high,low,9,name.com,,,13/08/2026 16:07
+b3184852-7a86-4f15-928b-8a7bf55bde3e,saigon.wedding,available,33.98,43.98,high,low,6,namecheap,,,28/09/2026 10:04
 3843a21d-3419-4176-8dd5-765fe3695e9c,hallowmas.wedding,available,32.49,32.49,medium,low,9,namesilo,,,18/09/2026 09:30
 fe475c46-59ed-42dd-a1a4-d96cc66078fe,claw.wedding,available,32.49,32.49,high,high,4,namesilo,,,24/09/2026 15:21
 dd89304a-12c7-45fc-b1b1-f6e043068c4a,foremost.wedding,available,32.49,32.49,high,medium,8,namesilo,,,18/08/2026 05:18
 86923d68-2d75-49b2-ad65-42083f9fe5dc,forked.wedding,available,33.98,43.98,high,low,6,namecheap,,,09/08/2026 20:14
 d403c335-5425-4ca1-8a7b-540b3bf203d8,forsyth.wedding,available,26.08,26.08,high,low,7,spaceship,,,27/09/2026 21:08
 5d92ab5e-c029-4ed1-afc2-53a2d7653f54,gig.wedding,premium,512,29.5,high,low,3,namesilo,,,28/09/2026 05:44
+bac5b33d-7bbb-44cf-bf37-f295afedb76f,reinforce.wedding,available,26.08,26.08,high,low,9,spaceship,,,29/09/2026 20:46
 3478e152-e42a-4adc-9eb0-b44c0aa158c1,caspar.wedding,available,32.49,32.49,medium,low,6,namesilo,,,29/09/2026 06:16
 0a452adb-2a53-4a15-bd79-310eb1f5664e,trollop.wedding,available,33.98,43.98,medium,low,7,namecheap,,,17/09/2026 10:23
 346cdf6e-12a6-4559-9a42-0e32fe3526ec,anecdotist.wedding,available,32.49,32.49,medium,low,10,namesilo,,,19/09/2026 05:08
@@ -375,6 +406,7 @@ c4b5e9a5-a6fa-4e34-824a-c34e0d1e68e6,multiple.wedding,available,32.49,32.49,high
 40e37f08-7d00-4efc-a142-1e9451a47f60,prandial.wedding,available,32.49,32.49,high,medium,8,namesilo,,,09/09/2026 01:04
 19aff025-04b7-43c5-941d-248c86b8bba8,remind.wedding,available,46.99,46.99,high,low,6,name.com,,,24/09/2026 20:14
 01c3c18a-7c77-4bec-a0a6-f69ad8e813fd,avoid.wedding,available,32.49,32.49,high,low,5,namesilo,,,13/09/2026 06:44
+9383d0b8-4880-4395-bdcb-ae5f688dc15b,kenosha.wedding,available,33.98,43.98,medium,low,7,namecheap,,,29/09/2026 15:54
 7c971752-50a6-4649-a8a7-10765f047f4d,pope.wedding,premium,88,26.97,high,low,4,dynadot,,,28/09/2026 20:19
 4266332c-629e-47e5-b61b-01ba83f28f55,sheetlike.wedding,available,32.49,32.49,high,medium,9,namesilo,,,10/09/2026 06:21
 01291ac7-ee82-4acd-9f00-e3848cb4d2cc,renunciant.wedding,available,32.49,32.49,medium,low,10,namesilo,,,09/09/2026 14:23
@@ -388,13 +420,15 @@ cae8df40-d41a-445c-8b50-d041d26b60be,origin.wedding,available,32.49,32.49,high,l
 9ce16d5f-58f0-4f0c-a94d-ced38d20e844,phantasmal.wedding,available,32.49,32.49,medium,low,10,namesilo,,,06/08/2026 05:33
 b565e258-4857-4296-ab13-5f6174a17c2d,address.wedding,premium,47.2,29.5,high,low,7,namesilo,,,28/09/2026 06:48
 c5f0e30c-27d8-40c1-96c0-0d0408950669,crosstown.wedding,available,32.49,32.49,medium,low,9,namesilo,,,13/08/2026 08:13
+9c6dc452-4921-4345-b02e-ab56fcded7ce,gravitational.wedding,available,32.49,32.49,medium,low,13,namesilo,,,29/09/2026 10:18
+15be9a9f-8a26-4c9e-a356-dc1c5ae33997,ministers.wedding,available,26.08,26.08,medium,low,9,spaceship,,,29/09/2026 17:05
 e907e5e4-70af-438c-a8a0-65276df89ce9,moot.wedding,available,32.49,32.49,high,low,4,namesilo,,,14/08/2026 00:31
 1ce21d24-f3d2-4742-ba91-e2be5d8cada1,demonstration.wedding,available,32.49,32.49,high,low,13,namesilo,,,
 bf817c55-e72b-41c5-892d-466e580b643f,endoergic.wedding,available,32.49,32.49,medium,low,9,namesilo,,,17/08/2026 01:08
 97c359b4-2596-44f8-8940-e62bfb4802f1,crusader.wedding,available,32.49,32.49,high,medium,8,namesilo,,,09/09/2026 12:45
 2f916856-a146-4376-a3b2-14098fc4169f,athanasius.wedding,available,33.98,43.98,medium,low,10,namecheap,,,20/09/2026 20:26
 dacf2893-ce45-4465-b03b-a51d965f963b,gregory.wedding,available,33.98,43.98,high,low,7,namecheap,,,19/09/2026 06:00
-86105c6c-798e-4431-91b3-cbd8ad71061c,goal.wedding,available,32.49,32.49,high,low,4,namesilo,,,
+86105c6c-798e-4431-91b3-cbd8ad71061c,goal.wedding,available,33.98,43.98,high,low,4,namecheap,,,29/09/2026 14:09
 7ac7eb76-0caa-453a-9cb3-f93e72e0563f,spectacled.wedding,available,32.49,32.49,medium,low,10,namesilo,,,09/08/2026 17:20
 f2c1d8e1-a0a2-4b3b-b42c-38ea091e3612,absurdly.wedding,available,32.49,32.49,medium,low,8,namesilo,,,13/09/2026 16:46
 da799fd0-eb29-4e2b-88f1-18b7df02a598,sciolist.wedding,available,32.49,32.49,medium,low,8,namesilo,,,14/08/2026 07:43
@@ -405,18 +439,19 @@ f04e2bd7-1fb5-4ff1-8646-549623731ce5,npr.wedding,premium,41.6,26.08,high,low,3,s
 24e1d3f5-cf5a-46cf-b68c-007e80868d7a,deplorable.wedding,available,33.98,43.98,medium,low,10,namecheap,,,12/08/2026 20:22
 430b6d31-c360-479f-83b0-79656fb9c304,vaughn.wedding,available,32.49,32.49,high,low,6,namesilo,,,27/09/2026 11:16
 eda058e6-18ad-48f6-b92f-ee9d4c948547,rampant.wedding,available,32.49,32.49,high,medium,7,namesilo,,,09/09/2026 10:11
-5a35a96e-5209-4b9c-88bb-3950be2c4f44,watermelon.wedding,available,32.49,32.49,high,low,10,namesilo,,,
+5a35a96e-5209-4b9c-88bb-3950be2c4f44,watermelon.wedding,available,26.08,26.08,high,low,10,spaceship,,,29/09/2026 09:31
 13b9918d-e113-4e81-adfc-d38a6f99c532,chapstick.wedding,available,32.49,32.49,high,low,9,namesilo,,,
 44b3f44a-ab1b-431c-9b6b-02ac9beae6d7,arborvitae.wedding,available,32.49,32.49,medium,low,10,namesilo,,,20/09/2026 00:54
-3e3d2bb7-1ac6-4a1b-b990-99b55f0c6322,ortega.wedding,available,26.08,26.08,medium,low,6,spaceship,,,28/09/2026 05:29
+3e3d2bb7-1ac6-4a1b-b990-99b55f0c6322,ortega.wedding,available,26.08,26.08,high,low,6,spaceship,,,28/09/2026 05:29
 99b708f3-dff1-4cab-b37d-bce362d6db98,nana.wedding,available,32.49,32.49,high,low,4,namesilo,,,
 2d9b2512-295b-4a7b-8570-73f8c46655f7,keenness.wedding,available,33.98,43.98,high,low,8,namecheap,,,21/09/2026 09:30
-51d0d8df-b121-4ee5-89ba-b764e262054d,practically.wedding,available,32.49,32.49,medium,low,11,namesilo,,,25/09/2026 11:39
+51d0d8df-b121-4ee5-89ba-b764e262054d,practically.wedding,available,32.49,32.49,high,low,11,namesilo,,,25/09/2026 11:39
 c1a26c96-2cf1-4582-8880-72ed6aa55d0f,lachrymal.wedding,available,33.98,43.98,medium,low,9,namecheap,,,22/08/2026 17:59
 902bb7a1-04f4-4eed-9e51-8176622534ec,pedagogic.wedding,available,32.49,32.49,medium,low,9,namesilo,,,08/09/2026 12:15
 b883a37c-22b0-4c6a-b489-b757436146ec,nikolai.wedding,available,25.2,25.2,high,low,7,cloudflare,,,27/09/2026 20:11
+6893a1c6-8706-409d-b988-4ddd30d65c8a,jug.wedding,premium,512,29.5,high,low,3,namesilo,,,29/09/2026 12:28
 8e77b5e6-658a-47b7-8165-8d0dd2341e05,victuals.wedding,available,33.98,43.98,medium,low,8,namecheap,,,12/08/2026 18:52
-82cd5119-e3a2-438c-825e-40935bbc28a4,armoured.wedding,available,33.98,43.98,medium,low,8,namecheap,,,06/08/2026 20:10
+82cd5119-e3a2-438c-825e-40935bbc28a4,armoured.wedding,available,33.98,43.98,high,low,8,namecheap,,,06/08/2026 20:10
 244406b0-9f88-44e9-8764-9493fbe2d9b5,craggy.wedding,available,32.49,32.49,medium,low,6,namesilo,,,13/08/2026 04:44
 9474253e-774a-471c-bbae-6e9047520640,shall.wedding,available,32.49,32.49,high,low,5,namesilo,,,
 fb5aebcc-b6ea-498e-89bf-30e08f78762d,counter.wedding,available,33.98,43.98,high,low,7,namecheap,,,29/09/2026 05:50
@@ -424,24 +459,29 @@ fb5aebcc-b6ea-498e-89bf-30e08f78762d,counter.wedding,available,33.98,43.98,high,
 d150183c-77e9-4fef-8e94-860e27dd28fb,parrish.wedding,available,25.2,25.2,medium,low,7,cloudflare,,,28/09/2026 14:51
 2fee5813-260c-4a25-b2e5-b146744083ce,truman.wedding,available,26.08,26.08,medium,low,6,spaceship,,,28/09/2026 10:00
 53375bd6-69e8-44df-9f2e-e085864810d8,minatory.wedding,available,33.98,43.98,low,low,8,namecheap,,,24/08/2026 19:58
+345c00da-3399-403b-b058-995558408857,chariot.wedding,available,32.49,32.49,high,low,7,namesilo,,,29/09/2026 11:53
 0da9510e-7e88-4158-bc84-44cd6d8ec0fc,provo.wedding,premium,,,high,low,5,,,,29/09/2026 01:55
 54938be4-7fd7-4ab4-b072-6b37c41e3520,fees.wedding,available,32.49,32.49,high,low,4,namesilo,,,
+62443f26-166f-417d-83ca-859efc11c55d,ness.wedding,available,32.49,32.49,high,low,4,namesilo,,,29/09/2026 11:51
 a8ad1c41-758e-4d99-9769-7d01c447369c,hunters.wedding,available,33.98,43.98,medium,low,7,namecheap,,,28/09/2026 08:39
 5f46234c-b105-48be-a22f-f352adb275a5,uttered.wedding,available,32.49,32.49,medium,low,7,namesilo,,,17/08/2026 18:44
 06f6f5de-ce88-494f-801d-199ff5af99ee,arietta.wedding,available,33.98,43.98,high,low,7,namecheap,,,20/09/2026 05:25
-6a6b8b30-5d5c-48ba-90f5-b496062c5734,weaponry.wedding,available,32.49,32.49,medium,low,8,namesilo,,,20/09/2026 07:43
+6a6b8b30-5d5c-48ba-90f5-b496062c5734,weaponry.wedding,available,32.49,32.49,high,low,8,namesilo,,,20/09/2026 07:43
+db88789f-ac77-4c6e-8aa3-8be35a2b8d53,circumstance.wedding,available,32.49,32.49,high,low,12,namesilo,,,29/09/2026 08:31
 684564d4-bd69-495f-92f1-f130c3306bef,suety.wedding,available,32.49,32.49,low,low,5,namesilo,,,11/09/2026 01:08
-29c2740c-8778-4f05-b6ae-9d45409782ad,courthouse.wedding,resell,,,medium,low,10,,,,28/09/2026 09:28
+29c2740c-8778-4f05-b6ae-9d45409782ad,courthouse.wedding,resell,,,high,low,10,,,,28/09/2026 09:28
 40419713-50e0-4643-9ac6-8a629f2a7afc,shirts.wedding,available,32.49,32.49,medium,low,6,namesilo,,,27/09/2026 11:13
 b7952109-36ec-40bb-9054-91c84440db98,unabridged.wedding,available,32.49,32.49,high,low,10,namesilo,,,11/09/2026 23:28
+2c7df485-1934-4248-ad41-4a2e2a73a53d,toro.wedding,available,32.49,32.49,high,high,4,namesilo,,,29/09/2026 21:51
 b952c2d6-e7ca-4a65-bd23-d59fbc4e5d35,robbed.wedding,available,32.49,32.49,low,low,6,namesilo,,,27/09/2026 02:44
 c9732e15-389c-49ab-b815-43d73cfd3797,jubilant.wedding,available,32.49,32.49,high,low,8,namesilo,,,17/08/2026 19:46
-4246c14c-5eda-4dc8-845c-9dedeb088d01,normandy.wedding,available,32.49,32.49,medium,low,8,namesilo,,,
+4246c14c-5eda-4dc8-845c-9dedeb088d01,normandy.wedding,available,32.49,32.49,high,low,8,namesilo,,,
 641be28b-b899-46b8-864f-4b1c2d48eaf1,exiguous.wedding,available,32.49,32.49,medium,low,8,namesilo,,,17/08/2026 17:18
 d0f4016c-d4ed-4453-aa7f-0a8a6c452e8f,iss.wedding,premium,52,32.5,high,low,3,namecheap,,,27/09/2026 23:32
-c8d586bd-9795-48dc-9b5a-a07636c4b3e0,churning.wedding,available,32.49,32.49,medium,low,8,namesilo,,,12/08/2026 07:51
-fbed5087-c69e-46e0-abed-53f14da0267e,favoritism.wedding,available,33.98,43.98,medium,low,10,namecheap,,,24/09/2026 22:35
+c8d586bd-9795-48dc-9b5a-a07636c4b3e0,churning.wedding,available,32.49,32.49,high,low,8,namesilo,,,12/08/2026 07:51
+fbed5087-c69e-46e0-abed-53f14da0267e,favoritism.wedding,available,33.98,43.98,high,low,10,namecheap,,,24/09/2026 22:35
 0dc0df75-e89e-4466-8b38-63254a51eb51,hides.wedding,available,32.49,32.49,medium,low,5,namesilo,,,18/09/2026 23:59
+a9e80240-4bbc-429a-ba14-ae220a79c78c,cwa.wedding,premium,47.2,29.5,medium,low,3,namesilo,,,29/09/2026 22:10
 777eebab-7351-4913-83fb-4bc00467f9c7,winning.wedding,premium,47.2,29.5,high,low,7,namesilo,,,24/09/2026 17:37
 05416301-75af-480a-97f2-ccf26096c07f,donated.wedding,available,26.26,26.26,medium,low,7,porkbun,,,29/09/2026 00:11
 2b620d50-0e1e-4adc-9e8e-4d383101d425,legislative.wedding,available,32.49,32.49,high,low,11,namesilo,,,
@@ -451,16 +491,19 @@ e775d48c-6410-4ef6-a032-823563b3e14d,angel.wedding,premium,220,26.97,high,medium
 283ae448-54ae-4d07-b155-29e84e188a9a,hostelry.wedding,available,32.49,32.49,medium,low,8,namesilo,,,21/09/2026 02:26
 0735cecf-fbd1-4742-b41f-331dda0a338e,advection.wedding,available,32.49,32.49,medium,low,9,namesilo,,,17/09/2026 10:31
 ca222325-cf75-4401-8195-34bd352d34c9,spiffy.wedding,available,46.99,46.99,high,low,6,name.com,,,13/08/2026 17:36
-56347b10-6ae4-4d57-a5be-7af6cdb73ed8,election.wedding,available,32.49,32.49,high,low,8,namesilo,,,
+56347b10-6ae4-4d57-a5be-7af6cdb73ed8,election.wedding,available,26.08,26.08,high,low,8,spaceship,,,29/09/2026 17:51
 aac53247-bf77-45f7-8450-ddf4733da682,graves.wedding,available,26.97,26.97,high,low,6,dynadot,,,28/09/2026 05:52
 ddb7952a-85b1-4291-8adf-83d3f1ed7e75,vincennes.wedding,available,26.08,26.08,medium,low,9,spaceship,,,28/09/2026 22:26
-ce192623-da28-4522-890e-9de90567f943,ding.wedding,available,26.08,26.08,medium,low,4,spaceship,,,28/09/2026 14:30
+ce192623-da28-4522-890e-9de90567f943,ding.wedding,available,26.08,26.08,high,low,4,spaceship,,,28/09/2026 14:30
 daecd7af-d06a-458f-9893-9671039f9fc2,nominee.wedding,available,26.97,26.97,high,low,7,dynadot,,,29/09/2026 06:17
 5dda278b-c887-41ae-bb65-99cc99706ddb,ping.wedding,premium,,,high,high,4,,,,28/09/2026 20:11
-ccf5350b-6609-4289-a7c0-7be4334a3c80,nan.wedding,premium,50,,high,low,3,name.com,,,
+e5d4f759-28c6-4e87-aae2-b5298efba97b,tracker.wedding,available,32.49,32.49,high,low,7,namesilo,,,30/09/2026 03:03
+213c8734-c354-410e-9ac5-de109248a65a,omb.wedding,premium,52,32.5,medium,low,3,namecheap,,,29/09/2026 19:51
+ccf5350b-6609-4289-a7c0-7be4334a3c80,nan.wedding,premium,44,26.97,high,low,3,dynadot,,,29/09/2026 21:19
 62eee5ea-fb5d-4f04-a431-3427bf5c2917,gambian.wedding,available,32.49,32.49,medium,low,7,namesilo,,,18/08/2026 19:48
 f2c54993-1de2-4b3a-b353-7edd50b96e16,saprozoic.wedding,available,33.98,43.98,high,medium,9,namecheap,,,09/09/2026 21:25
 03db5010-0bb8-4713-b45b-e2ec17aa23ee,paraplegic.wedding,available,32.49,32.49,medium,low,10,namesilo,,,08/09/2026 01:10
+38b41477-2787-41c8-a394-a7d05df937f4,decorating.wedding,premium,83,26.08,high,low,10,spaceship,,,30/09/2026 04:09
 b8750b91-8c2b-4c25-a828-d57d3dde7bb9,swarthy.wedding,available,32.49,32.49,medium,low,7,namesilo,,,11/09/2026 05:25
 71d24c37-fc9c-4f50-9c77-f99520ed4878,overriding.wedding,available,32.49,32.49,high,low,10,namesilo,,,04/09/2026 21:39
 df1b2979-38ae-41dd-8f33-6f8582ac366c,sideway.wedding,available,32.49,32.49,high,medium,7,namesilo,,,10/09/2026 07:47
@@ -468,6 +511,7 @@ e6161843-7b55-4adf-a4bc-bde9acbd7a02,costly.wedding,available,32.49,32.49,high,l
 7d848585-7d32-4ded-9f7f-12381fb208a2,gip.wedding,premium,47.2,29.5,medium,low,3,namesilo,,,14/09/2026 08:07
 a85de126-dfba-4617-a5b2-c5d5d8a4558a,cheese.wedding,available,32.49,32.49,high,low,6,namesilo,,,28/09/2026 12:55
 c44677f9-ac0f-43fc-a72b-a9c5c95c8346,merging.wedding,available,32.49,32.49,high,low,7,namesilo,,,24/08/2026 20:43
+9ea508de-dbe1-4787-8259-538490afa816,brno.wedding,available,25.2,25.2,high,low,4,cloudflare,,,29/09/2026 18:06
 e3e9dc02-eeec-47f0-81e5-eb81606cf1c3,portholes.wedding,available,32.49,32.49,low,low,9,namesilo,,,19/09/2026 21:54
 236bd1f2-efd6-4e08-a3ea-157a6894ec16,curie.wedding,available,32.49,32.49,high,low,5,namesilo,,,12/08/2026 08:00
 d60d5300-c8d8-4dfa-9782-ebdb3b72ca6f,amos.wedding,premium,47.2,29.5,high,low,4,namesilo,,,18/09/2026 22:51
@@ -476,12 +520,12 @@ ab0dd299-56a3-4391-abdd-2b9e7a16b0cb,bowfront.wedding,available,32.49,32.49,high
 38d0ce47-1643-4a48-9dce-c6c9fa18d65a,gracefully.wedding,available,32.49,32.49,high,low,10,namesilo,,,14/09/2026 21:54
 ed5a6619-c109-4c53-a934-739fc7fa5aea,anita.wedding,available,32.49,32.49,high,low,5,namesilo,,,25/09/2026 15:32
 ac257594-5ed6-4875-b2ac-4b9b235c228a,shelters.wedding,available,32.49,32.49,high,low,8,namesilo,,,20/09/2026 23:17
-59681e77-5fac-4e82-a7a9-078ff1438fa8,hanukkah.wedding,available,32.49,32.49,high,low,8,namesilo,,,
+59681e77-5fac-4e82-a7a9-078ff1438fa8,hanukkah.wedding,available,33.98,43.98,high,low,8,namecheap,,,29/09/2026 08:04
 606cf0c0-b5a8-4c6b-9ffb-00d591d13c44,organizations.wedding,available,32.49,32.49,medium,low,13,namesilo,,,
 8f40606f-0297-43fd-9449-2102a2013d7a,brewer.wedding,available,32.49,32.49,high,low,6,namesilo,,,23/09/2026 01:41
 a1e7ae3e-48c9-4977-acf6-97322072dc1f,realty.wedding,available,33.98,43.98,high,low,6,namecheap,,,21/08/2026 21:24
-beae6150-4524-458e-bd55-d7c1b0d01238,residuum.wedding,available,32.49,32.49,medium,low,8,namesilo,,,09/09/2026 15:07
-b1d474e1-0325-4070-807d-012f355b4ba0,pea.wedding,premium,512,29.5,medium,low,3,namesilo,,,28/09/2026 15:03
+beae6150-4524-458e-bd55-d7c1b0d01238,residuum.wedding,available,32.49,32.49,high,low,8,namesilo,,,09/09/2026 15:07
+b1d474e1-0325-4070-807d-012f355b4ba0,pea.wedding,premium,512,29.5,high,low,3,namesilo,,,28/09/2026 15:03
 eff064e8-9460-4df2-a699-3f2d7567f99f,pinstriped.wedding,available,33.98,43.98,high,medium,10,namecheap,,,08/09/2026 19:51
 def13fac-6edf-4765-b3d6-de10e7ff77f2,purr.wedding,available,33.98,43.98,high,low,4,namecheap,,,23/09/2026 20:53
 67e0eacc-0904-4c2f-8ce4-3e2479701e3a,climax.wedding,available,32.49,32.49,high,low,6,namesilo,,,24/09/2026 15:38
@@ -491,6 +535,7 @@ a2ac2e0a-8508-404b-a606-cc9c3ac3233e,refusing.wedding,available,32.49,32.49,low,
 f405160e-88f8-40ca-82f3-2d5521b3c61a,katherine.wedding,available,32.49,32.49,high,low,9,namesilo,,,28/09/2026 03:49
 53d0deaa-2573-4c33-9d6c-873d248b7f5a,pieces.wedding,available,33.98,43.98,medium,low,6,namecheap,,,17/09/2026 19:58
 ba17baeb-88e2-40b2-8a38-ff5de2ed0cfd,beekeeper.wedding,available,32.49,32.49,high,low,9,namesilo,,,19/09/2026 17:19
+9150b555-470f-4ed3-aad5-46f29d5ba2a2,malden.wedding,available,26.26,26.26,medium,low,6,porkbun,,,29/09/2026 15:07
 8b8693e5-0dfd-4950-9cc3-2ec2f08e14ee,lucrative.wedding,available,33.98,43.98,high,low,9,namecheap,,,25/09/2026 15:34
 41cb9fd9-9d5a-400c-ac24-9fbffa6e363f,rita.wedding,available,33.98,43.98,high,low,4,namecheap,,,25/09/2026 19:01
 64267ac5-a281-408e-a28d-b7ba94e3e708,nobleman.wedding,available,33.98,43.98,high,low,8,namecheap,,,03/09/2026 18:00
@@ -498,7 +543,9 @@ ba17baeb-88e2-40b2-8a38-ff5de2ed0cfd,beekeeper.wedding,available,32.49,32.49,hig
 4a727d68-b90e-4a30-9247-9b28abf864a4,aiai.wedding,available,32.49,32.49,high,low,4,namesilo,,,17/09/2026 20:43
 fd980d66-39e5-414b-8a08-8b9f11ff4aea,foliated.wedding,available,32.49,32.49,medium,low,8,namesilo,,,08/09/2026 09:20
 aab567ab-2960-45ff-b1ad-0ac3b6029412,hosts.wedding,available,32.49,32.49,high,low,5,namesilo,,,18/09/2026 22:23
-614fd225-dbb5-4ca2-8a8c-28d1e8b6a8b7,dahl.wedding,available,32.49,32.49,medium,low,4,namesilo,,,28/09/2026 09:14
+d1b125b9-3ac1-4c72-b41f-b872a4557b9d,tombstone.wedding,premium,52,32.5,high,low,9,namecheap,,,29/09/2026 12:58
+614fd225-dbb5-4ca2-8a8c-28d1e8b6a8b7,dahl.wedding,available,32.49,32.49,high,low,4,namesilo,,,28/09/2026 09:14
+0d807297-1299-4c88-9bb9-78ff61e1f9cf,brilliantly.wedding,available,26.97,26.97,high,low,11,dynadot,,,29/09/2026 21:24
 e80bb30e-d95a-4fd6-a9ec-5606a99086db,induced.wedding,available,32.49,32.49,high,low,7,namesilo,,,22/08/2026 03:27
 c22ca3fb-6718-48bc-8fe8-a631a0c240c9,stealthy.wedding,available,33.98,43.98,medium,low,8,namecheap,,,18/08/2026 19:00
 4ea2caef-c60b-45d0-a198-7a9db7559a9f,poet.wedding,available,32.49,32.49,high,low,4,namesilo,,,27/09/2026 05:01
@@ -506,15 +553,17 @@ c22ca3fb-6718-48bc-8fe8-a631a0c240c9,stealthy.wedding,available,33.98,43.98,medi
 a2f5ebb0-98e1-4e84-bc46-37d766e5d9a5,warn.wedding,available,25.2,25.2,high,low,4,cloudflare,,,28/09/2026 03:18
 abf339b5-3d12-4093-be56-54942a734d55,unshoed.wedding,available,33.98,43.98,low,low,7,namecheap,,,12/09/2026 19:51
 06b4fc56-0e28-4977-8d62-fe60ac24b856,typically.wedding,available,25.2,25.2,medium,low,9,cloudflare,,,28/09/2026 17:10
+b9487887-fc4c-4474-89b6-bacb3c524597,cir.wedding,premium,47.2,29.5,high,low,3,namesilo,,,29/09/2026 09:07
 81c0d268-046f-4bb2-9f50-a446718cb591,twenty.wedding,available,32.49,32.49,high,low,6,namesilo,,,21/09/2026 12:24
 0040751e-fbd7-4b10-a8c9-a9843c440dc7,decayed.wedding,available,33.98,43.98,medium,low,7,namecheap,,,13/08/2026 20:59
 f48521f9-a991-43bc-b058-5606bc684d44,guile.wedding,available,32.49,32.49,medium,low,5,namesilo,,,13/08/2026 10:41
-f3142d36-871f-4e2c-8897-bf98680ff009,balanced.wedding,available,32.49,32.49,high,low,8,namesilo,,,22/09/2026 16:28
+f3142d36-871f-4e2c-8897-bf98680ff009,balanced.wedding,available,32.49,32.49,high,low,8,namesilo,,,29/09/2026 16:30
 04392ab8-3ce3-45ca-be78-0ffc61e1f7e5,geriatric.wedding,available,32.49,32.49,medium,low,9,namesilo,,,18/08/2026 22:42
+d9737833-2dcb-4d7b-a183-9267c748199f,leblanc.wedding,available,32.49,32.49,high,low,7,namesilo,,,29/09/2026 15:54
 915ca920-d764-4b2c-9d49-3e0ac7d10387,prisoners.wedding,available,33.98,43.98,medium,low,9,namecheap,,,25/09/2026 20:27
 9f32911c-3665-40ca-ad47-4ce2062ed4c5,divas.wedding,available,32.49,32.49,medium,low,5,namesilo,,,20/09/2026 06:21
-f861e3ce-e8a9-4f5a-90ad-aff20fcd2b20,clubby.wedding,available,32.49,32.49,medium,low,6,namesilo,,,12/08/2026 11:19
-6ac04aba-2320-48bb-af8d-f6361de94fac,glinting.wedding,available,32.49,32.49,medium,low,8,namesilo,,,
+f861e3ce-e8a9-4f5a-90ad-aff20fcd2b20,clubby.wedding,available,32.49,32.49,high,low,6,namesilo,,,12/08/2026 11:19
+6ac04aba-2320-48bb-af8d-f6361de94fac,glinting.wedding,available,32.49,32.49,high,low,8,namesilo,,,
 f27f4596-6023-47dd-a71f-542c0deb1b6e,boland.wedding,available,25.2,25.2,medium,low,6,cloudflare,,,29/09/2026 04:35
 49ccf015-7edd-415d-9f07-021ade810435,stripped.wedding,available,32.49,32.49,medium,low,8,namesilo,,,10/09/2026 22:48
 99bfb43b-1484-4305-9c65-07e0abbe090c,vineyard.wedding,available,26.26,26.26,high,low,8,porkbun,,,28/09/2026 20:44
@@ -522,16 +571,17 @@ d7c5a08b-559f-433b-8cad-7aee15a2bb13,apoapsis.wedding,available,33.98,43.98,medi
 c238e8a4-78fc-4bc0-9f59-58f09cc3dbbf,bellwether.wedding,available,32.49,32.49,high,low,10,namesilo,,,23/09/2026 06:30
 fe8af34d-e292-4eb5-bdab-6ff8e60f1dd7,trigonal.wedding,available,32.49,32.49,medium,low,8,namesilo,,,09/09/2026 16:45
 487429e9-3761-4862-b8f1-75d6b746a6ed,norma.wedding,available,25.2,25.2,high,low,5,cloudflare,,,28/09/2026 14:58
+d8b5f046-23bf-4831-bf47-f7e4206346ac,petersburg.wedding,available,32.49,32.49,high,low,10,namesilo,,,29/09/2026 07:52
 bb9a740d-eb2b-4e10-bfc8-63f60dcce019,oldest.wedding,available,32.49,32.49,high,low,6,namesilo,,,
 bedfc3a2-ec35-4a6e-b157-8cc650f87e51,backbone.wedding,available,32.49,32.49,high,low,9,namesilo,,,21/09/2026 15:14
-2aba308a-f951-4587-8a10-2f7025bca6fd,wendell.wedding,available,26.08,26.08,medium,low,7,spaceship,,,27/09/2026 20:17
+2aba308a-f951-4587-8a10-2f7025bca6fd,wendell.wedding,available,26.08,26.08,high,low,7,spaceship,,,27/09/2026 20:17
 82254ad2-36dc-4260-9b92-537cb408338f,bias.wedding,available,32.49,32.49,medium,low,4,namesilo,,,09/08/2026 18:35
 ba74bfac-e814-4f6f-b56f-a091ace880c2,runty.wedding,available,33.98,43.98,high,medium,5,namecheap,,,08/09/2026 19:54
 2f8b125d-efe6-4a82-bc5d-c8ef54eedefc,parasite.wedding,available,25.2,25.2,high,low,8,cloudflare,,,29/09/2026 01:47
-902364f7-840c-4862-9064-c817142cebee,platter.wedding,available,32.49,32.49,high,low,7,namesilo,,,
+902364f7-840c-4862-9064-c817142cebee,platter.wedding,available,32.49,32.49,high,low,7,namesilo,,,29/09/2026 15:14
 727517f0-f12e-4a43-9d72-c46a9878c15e,shelling.wedding,available,32.49,32.49,medium,low,8,namesilo,,,22/09/2026 08:00
 d7f9d669-d1da-4f4c-98ab-b81a260bc3d7,bidding.wedding,available,32.49,32.49,high,low,7,namesilo,,,23/09/2026 13:29
-71d514e4-484f-4a60-8d54-395544e1d11c,expire.wedding,available,43.98,,medium,low,6,namecheap,,,
+71d514e4-484f-4a60-8d54-395544e1d11c,expire.wedding,available,26.26,26.26,high,low,6,porkbun,,,29/09/2026 12:11
 885850f3-2caa-4eba-9c8f-6438f2806bea,disposal.wedding,available,32.49,32.49,high,low,8,namesilo,,,17/09/2026 08:43
 f61f3c00-cbc6-4229-9cc6-64c000b08e0b,bacca.wedding,available,32.49,32.49,high,low,5,namesilo,,,21/09/2026 13:55
 fe7834fb-e03b-4d9a-b792-46b83f3c4f96,flashlight.wedding,available,26.08,26.08,high,low,10,spaceship,,,29/09/2026 06:57
@@ -543,15 +593,16 @@ a93cd900-0619-415e-afe6-5f88803f0cca,anpu.wedding,available,32.49,32.49,medium,l
 b578cf9a-3ead-4179-bf6b-d9b64502822e,consistently.wedding,available,32.49,32.49,high,low,12,namesilo,,,
 aa328b27-beda-4d16-a9b9-ffd9652f354f,ankle.wedding,available,32.49,32.49,high,low,5,namesilo,,,19/09/2026 09:40
 d13fb56f-5c5b-4bbe-89e9-29d2651f9a33,ages.wedding,available,32.49,32.49,medium,low,4,namesilo,,,
-fcb86bab-4885-4b1f-988e-067de3725690,introduce.wedding,available,32.49,32.49,high,low,9,namesilo,,,
+fcb86bab-4885-4b1f-988e-067de3725690,introduce.wedding,available,25.2,25.2,high,low,9,cloudflare,,,30/09/2026 00:04
+484b480e-c7cf-4e41-9656-f711949615b8,quota.wedding,available,26.08,26.08,high,low,5,spaceship,,,29/09/2026 07:55
 751e32f3-ed21-4eef-953a-767b808daa76,linnaean.wedding,available,33.98,43.98,medium,low,8,namecheap,,,23/08/2026 16:38
-adb07b94-cc3c-48b8-92b9-e1c4d4c83bd1,woodward.wedding,available,25.2,25.2,medium,low,8,cloudflare,,,29/09/2026 06:07
-1dcbfe6c-74c5-46d1-8950-eb6f899ef052,ghostly.wedding,available,32.49,32.49,medium,low,7,namesilo,,,06/08/2026 05:28
+adb07b94-cc3c-48b8-92b9-e1c4d4c83bd1,woodward.wedding,available,25.2,25.2,high,low,8,cloudflare,,,29/09/2026 06:07
+1dcbfe6c-74c5-46d1-8950-eb6f899ef052,ghostly.wedding,available,32.49,32.49,high,low,7,namesilo,,,06/08/2026 05:28
 696e8f4b-b20b-44a5-8980-1a3091f034d8,erotically.wedding,available,32.49,32.49,medium,low,10,namesilo,,,14/09/2026 15:58
 6b7426c8-86e4-490b-8eac-6c0fc41d0e89,vespucci.wedding,available,33.98,43.98,high,low,8,namecheap,,,18/09/2026 21:04
 dfd1fb0e-c246-467f-a3d7-c613c17143b2,admirer.wedding,available,33.98,43.98,high,low,7,namecheap,,,17/09/2026 08:56
 8af51769-8506-4f76-911b-308d6f83ae90,enchanting.wedding,premium,100,46.99,medium,low,10,name.com,,,09/08/2026 18:21
-8a767388-26d5-40a0-b119-35599f8b4aa5,bodily.wedding,available,32.49,32.49,medium,low,6,namesilo,,,10/08/2026 16:52
+8a767388-26d5-40a0-b119-35599f8b4aa5,bodily.wedding,available,32.49,32.49,high,low,6,namesilo,,,10/08/2026 16:52
 8adc3d8f-1eea-4a30-9a40-872fbc5bf279,stained.wedding,available,33.98,43.98,medium,low,7,namecheap,,,10/09/2026 18:14
 bb287cd7-7334-4125-8959-afb5d8904592,anapest.wedding,available,32.49,32.49,medium,low,7,namesilo,,,19/09/2026 02:04
 b09febbb-3bf1-487a-9647-481d90035ba9,brockhouse.wedding,available,32.49,32.49,medium,low,10,namesilo,,,23/09/2026 10:18
@@ -563,23 +614,25 @@ de51fa3e-bad9-4f54-a633-53658e4a0e26,volcano.wedding,premium,47.2,29.5,high,low,
 ed117228-5c84-43b5-aafb-ad6ecf5dac32,hempen.wedding,available,32.49,32.49,medium,low,6,namesilo,,,18/08/2026 03:20
 b8444f4b-4b90-4b0d-99dc-f7808c4b0bff,adrenalin.wedding,available,32.49,32.49,high,low,9,namesilo,,,17/09/2026 09:56
 f992667e-6c87-4ee8-bb02-d3016fc6c065,threesome.wedding,available,32.49,32.49,high,low,9,namesilo,,,
-bee11676-b4bd-4843-a590-86dcc27f067d,criticism.wedding,available,43.98,,high,low,9,namecheap,,,
+bee11676-b4bd-4843-a590-86dcc27f067d,criticism.wedding,available,26.08,26.08,high,low,9,spaceship,,,29/09/2026 12:07
 9fb67eeb-ca09-43a2-8a0d-a04baac90aff,deliver.wedding,available,26.08,26.08,high,low,7,spaceship,,,29/09/2026 02:52
 900a4c76-4cc2-4bf9-93fd-25ad763e5c53,camps.wedding,available,26.08,26.08,medium,low,5,spaceship,,,28/09/2026 18:04
-f2aa9022-4cc1-4d63-ba5d-88311e5b1c58,laptop.wedding,available,32.49,32.49,high,low,6,namesilo,,,
+f2aa9022-4cc1-4d63-ba5d-88311e5b1c58,laptop.wedding,available,26.26,26.26,high,low,6,porkbun,,,30/09/2026 02:07
 e4dfb99c-2558-4117-bca9-a7a2c1a6a1f1,corpulent.wedding,available,32.49,32.49,medium,low,9,namesilo,,,13/08/2026 01:57
 5f413d1b-2fa4-41fa-b84d-e67141ebe561,happy.wedding,premium,1040,32.5,high,medium,5,namecheap,,,24/09/2026 23:31
 ee53200e-7614-4e28-9d8c-f250959c800d,smashed.wedding,available,32.49,32.49,medium,low,7,namesilo,,,09/08/2026 15:50
 6d463b75-5e12-4892-b15a-a990c1224918,scalic.wedding,available,32.49,32.49,medium,low,6,namesilo,,,09/09/2026 22:27
-f6c9e96f-098e-4f3c-8b47-a5e6a95477e0,gustavus.wedding,available,32.49,32.49,medium,low,8,namesilo,,,29/09/2026 07:07
+f6c9e96f-098e-4f3c-8b47-a5e6a95477e0,gustavus.wedding,available,32.49,32.49,high,low,8,namesilo,,,29/09/2026 07:07
 d124adaa-888d-4115-bf8d-1639cae7fbab,getatable.wedding,available,32.49,32.49,medium,low,9,namesilo,,,18/08/2026 23:00
 6395f761-f198-4483-835a-9a459723aa14,artless.wedding,available,32.49,32.49,medium,low,7,namesilo,,,06/08/2026 23:47
 fe21829b-b0f6-4468-9c22-5e39acd3ccb4,publishing.wedding,available,26.08,26.08,high,low,10,spaceship,,,28/09/2026 06:38
 ca6cdeee-bd30-4025-9091-1026d677adb1,nine.wedding,available,32.49,32.49,high,low,4,namesilo,,,21/09/2026 13:23
 43f2b81d-9c5b-40c3-8ab4-295b02c33ea1,afield.wedding,available,33.98,43.98,medium,low,6,namecheap,,,13/09/2026 17:59
+803eefad-ad95-4347-aa22-12cbd88a23ad,hoax.wedding,available,49.99,49.99,high,low,4,godaddy,,,30/09/2026 01:25
 e437b5f2-8cea-4129-8ce0-5cd34c2bc992,menopausal.wedding,available,33.98,43.98,medium,low,10,namecheap,,,24/08/2026 20:15
 163eab77-8a6b-463a-a90f-107584eb9604,amplifiers.wedding,available,32.49,32.49,medium,low,10,namesilo,,,17/09/2026 07:12
-9fdfcf9d-3c63-454d-a21d-a5c2df299953,appointed.wedding,available,32.49,32.49,medium,low,9,namesilo,,,06/08/2026 07:21
+232c15d6-acd0-41e4-b3c3-fbf36dd69c55,methane.wedding,available,26.08,26.08,high,low,7,spaceship,,,29/09/2026 13:25
+9fdfcf9d-3c63-454d-a21d-a5c2df299953,appointed.wedding,available,32.49,32.49,high,low,9,namesilo,,,06/08/2026 07:21
 f523ca5d-9378-4529-92a6-ba0ef80908cd,rooney.wedding,available,32.49,32.49,high,low,6,namesilo,,,27/09/2026 07:48
 f742b9b0-0063-443c-93cc-093ac2cceceb,macpherson.wedding,available,32.49,32.49,medium,low,10,namesilo,,,28/09/2026 22:18
 deb2c072-5680-43bd-9d45-99f5dc606c59,hannover.wedding,available,26.08,26.08,medium,low,8,spaceship,,,29/09/2026 01:14
@@ -588,14 +641,14 @@ ac2bd36a-b2d3-4025-9c17-18f7cd38218c,zagreb.wedding,available,32.49,32.49,high,l
 6aa85944-be16-45c5-9fa5-74c9cf3d9101,nippy.wedding,available,32.49,32.49,high,low,5,namesilo,,,03/09/2026 17:42
 4f9f12b9-4d58-4edc-88c3-253ec942c4ad,storyboards.wedding,available,32.49,32.49,medium,low,11,namesilo,,,20/09/2026 14:39
 d6cfc09b-47dd-455e-a4a4-ab61e0f40fde,skeptical.wedding,available,32.49,32.49,medium,low,9,namesilo,,,14/08/2026 09:34
-33406b31-42d2-420c-b26a-4c70879521f7,summerset.wedding,available,32.49,32.49,medium,low,9,namesilo,,,18/08/2026 08:29
+33406b31-42d2-420c-b26a-4c70879521f7,summerset.wedding,available,32.49,32.49,high,low,9,namesilo,,,18/08/2026 08:29
 c1befcc1-f2ba-46d5-a42f-2c502af6c781,tannish.wedding,available,32.49,32.49,medium,low,7,namesilo,,,11/09/2026 08:03
-9a06bd09-62b4-4841-9ed8-b73b5470a5f9,omphalos.wedding,available,33.98,43.98,medium,low,8,namecheap,,,23/09/2026 06:37
+9a06bd09-62b4-4841-9ed8-b73b5470a5f9,omphalos.wedding,available,33.98,43.98,high,low,8,namecheap,,,23/09/2026 06:37
 40ae89ee-0138-4ba9-b9e3-9502f873f2ce,antigram.wedding,available,32.49,32.49,low,low,8,namesilo,,,19/09/2026 14:31
 93c74180-31df-4f93-961b-a84aaa531d5a,fitted.wedding,available,32.49,32.49,high,low,6,namesilo,,,18/08/2026 05:47
 a095b910-e581-4f1d-a45e-7f61c82b5e9b,junket.wedding,available,32.49,32.49,high,low,6,namesilo,,,22/09/2026 03:02
 b9aa298a-7bca-4d67-a80d-8f2096796e60,against.wedding,available,32.49,32.49,medium,low,7,namesilo,,,
-18e36eca-25ec-473e-a5b7-aa22072310d0,distress.wedding,available,32.49,32.49,high,low,8,namesilo,,,
+18e36eca-25ec-473e-a5b7-aa22072310d0,distress.wedding,available,26.08,26.08,high,low,8,spaceship,,,29/09/2026 16:17
 43f32207-eae9-4f23-a5d7-8e15f69ae621,aventurine.wedding,available,32.49,32.49,medium,low,10,namesilo,,,21/09/2026 09:07
 45227726-8469-4020-88b6-05f47c44da4e,fink.wedding,available,32.49,32.49,high,medium,4,namesilo,,,11/08/2026 16:11
 35cca43e-f487-4cde-990d-c58af3da79b0,mongoloid.wedding,available,32.49,32.49,medium,low,9,namesilo,,,25/08/2026 04:49
@@ -609,7 +662,7 @@ a1e03a94-cdee-430c-b6ad-5eeb93788913,sensors.wedding,available,32.49,32.49,mediu
 a4d11312-7be6-4a29-8b54-0199d544f254,digestive.wedding,available,32.49,32.49,high,low,9,namesilo,,,24/08/2026 15:24
 f2636cbb-16a2-41e1-9306-b60aeb337d33,sauna.wedding,available,32.49,32.49,high,low,5,namesilo,,,
 06dfe9fa-205b-4d10-8bb6-048201c66aea,frustration.wedding,available,26.08,26.08,medium,low,11,spaceship,,,28/09/2026 17:13
-fde2a3f1-1ca9-4a30-b261-86a6eb06a08d,educate.wedding,available,32.49,32.49,high,low,7,namesilo,,,27/09/2026 02:25
+fde2a3f1-1ca9-4a30-b261-86a6eb06a08d,educate.wedding,available,26.08,26.08,high,low,7,spaceship,,,29/09/2026 14:27
 5b0c00d6-de04-4354-ad5f-eda210bd7962,stalled.wedding,available,32.49,32.49,medium,low,7,namesilo,,,20/09/2026 17:27
 5359bcd7-19a1-49e6-8a10-5a663a0178a0,frustrate.wedding,available,32.49,32.49,medium,low,9,namesilo,,,24/09/2026 12:25
 1c9ff045-5f86-4bde-96f4-1bb85bac83bc,malar.wedding,available,32.49,32.49,medium,low,5,namesilo,,,13/09/2026 15:43
@@ -618,7 +671,7 @@ e39c0232-1711-4b4b-a1ac-35a29ef56ab8,kean.wedding,available,32.49,32.49,medium,l
 1722b2a1-5b12-4982-9e77-cfd9f8dbd127,fold.wedding,available,26.97,26.97,high,low,4,dynadot,,,28/09/2026 14:00
 8cbcc2fc-f465-4b81-8fff-5cc1a112a780,giver.wedding,available,33.98,43.98,high,low,5,namecheap,,,23/09/2026 10:44
 ed94728d-dc92-4ee7-b065-bed9537ba950,delayed.wedding,available,32.49,32.49,medium,low,7,namesilo,,,24/09/2026 05:13
-462df415-8e90-4ac7-ab56-5c25472f911b,cased.wedding,available,33.98,43.98,medium,low,5,namecheap,,,11/08/2026 20:04
+462df415-8e90-4ac7-ab56-5c25472f911b,cased.wedding,available,33.98,43.98,high,low,5,namecheap,,,11/08/2026 20:04
 a0858906-94b9-424d-95d6-f3fe0f23aa07,strumpet.wedding,available,32.49,32.49,medium,low,8,namesilo,,,17/09/2026 10:22
 c8d424b7-4f0d-44fb-b313-250f3c234b80,bingle.wedding,available,32.49,32.49,medium,low,6,namesilo,,,19/09/2026 16:38
 8d874347-8f84-4abd-9512-c76f7178a587,wrecked.wedding,available,26.08,26.08,medium,low,7,spaceship,,,28/09/2026 11:09
@@ -627,13 +680,15 @@ bab3579e-b036-40ce-ac99-1795eaebe0b6,ambulances.wedding,available,33.98,43.98,me
 ec4a0e35-cbd5-4bcf-8c22-cc5b906a3805,actuary.wedding,available,32.49,32.49,high,low,7,namesilo,,,17/09/2026 05:21
 d8964452-ec6d-41b1-a11b-6ecde7f68fa5,formosan.wedding,available,32.49,32.49,high,low,8,namesilo,,,18/08/2026 12:16
 888e6c18-343f-40bf-9395-49c5873b77c5,unisex.wedding,available,32.49,32.49,high,low,6,namesilo,,,12/09/2026 13:52
-e0511340-cff2-4f3e-b91c-5962821ff860,know.wedding,premium,500,,high,low,4,name.com,,,
+e0511340-cff2-4f3e-b91c-5962821ff860,know.wedding,premium,414.2,26.08,high,low,4,spaceship,,,29/09/2026 20:04
 b7bf6e63-935d-48ca-9dd5-5059813b52a2,daughterly.wedding,available,46.99,46.99,medium,low,10,name.com,,,13/08/2026 18:46
 87ae05f0-da4d-46e9-bbfb-18a0d19d6be7,outdoorsy.wedding,available,33.98,43.98,high,low,9,namecheap,,,04/09/2026 19:14
 74ada56d-be59-45af-b160-bc5a4899672c,appreciates.wedding,available,33.98,43.98,medium,low,11,namecheap,,,20/09/2026 20:35
 8285c372-1216-4fe6-8a25-2337e2c026a5,murdered.wedding,available,32.49,32.49,medium,low,8,namesilo,,,03/09/2026 11:02
 6cc92aba-9d8f-4c79-84be-de03cb06401d,songbird.wedding,available,32.49,32.49,high,low,8,namesilo,,,
+df91807f-c634-47cb-a66d-8273b9535e4f,cubs.wedding,available,26.97,26.97,high,medium,4,dynadot,,,29/09/2026 17:24
 e48f0c7a-487d-4bd0-9add-e57e4b91a872,tamable.wedding,available,32.49,32.49,medium,low,7,namesilo,,,11/09/2026 07:36
+61a406b1-b884-4e09-a078-ea093a64618b,pleaded.wedding,available,26.08,26.08,medium,low,7,spaceship,,,29/09/2026 22:56
 68939943-9401-4818-ac1c-a40298a57a55,forlorn.wedding,available,32.49,32.49,medium,low,7,namesilo,,,18/08/2026 12:02
 54a836dc-c25c-4167-8ec2-967c18859099,snowball.wedding,available,32.49,32.49,high,low,8,namesilo,,,16/09/2026 17:20
 c397699e-1430-4d97-ae91-a026d0afe68b,ounce.wedding,available,32.49,32.49,high,low,5,namesilo,,,28/09/2026 21:44
@@ -648,14 +703,16 @@ eee04447-56f1-47cb-95ac-88ecd09987ae,abjuration.wedding,available,46.99,46.99,me
 2c84fb40-357f-4329-b077-7a1b211a74d2,grade.wedding,available,32.49,32.49,high,low,5,namesilo,,,23/08/2026 00:34
 f9f33d2f-9f76-4aea-8254-7e5e46ee3e52,gently.wedding,available,25.2,25.2,high,low,6,cloudflare,,,28/09/2026 14:58
 448f7e87-62ca-4edc-b861-43bc9fa6f396,grime.wedding,available,32.49,32.49,medium,low,5,namesilo,,,14/08/2026 09:15
-0bfcc0c1-5544-4d66-8ddd-ecda851dbe76,want.wedding,premium,250,,high,low,4,name.com,,,
+0bfcc0c1-5544-4d66-8ddd-ecda851dbe76,want.wedding,premium,242,29.5,high,low,4,namesilo,,,29/09/2026 13:33
+8602e896-2130-4e73-b907-1541ff28c004,humility.wedding,available,26.26,26.26,high,low,8,porkbun,,,29/09/2026 07:17
 b063dab3-caed-4446-ad3e-b70d65c943ae,eleven.wedding,available,32.49,32.49,high,low,6,namesilo,,,21/09/2026 11:20
 9f21d44d-e3bc-453b-b9da-0f62d58d5896,pasty.wedding,available,32.49,32.49,high,low,5,namesilo,,,20/08/2026 15:21
 a0bfb808-7d14-4ad8-8f87-255b63f9894d,chelonian.wedding,available,32.49,32.49,low,low,9,namesilo,,,12/08/2026 04:08
 23f8a36e-34a8-4a98-8488-004777b5cc1c,voltaic.wedding,available,32.49,32.49,medium,low,7,namesilo,,,18/08/2026 19:42
 3bd8741a-6247-4b76-a424-14decd631fc5,peruvian.wedding,premium,104,32.5,high,low,8,namecheap,,,08/09/2026 18:07
+b844f136-784c-4fe6-9013-b1b096dce2b8,cultivators.wedding,available,32.49,32.49,medium,low,11,namesilo,,,30/09/2026 00:43
 1b72dd1a-52e3-4574-8d77-76e3ca9cc5de,preventive.wedding,available,32.49,32.49,high,low,10,namesilo,,,23/09/2026 22:24
-15e91549-fd03-419b-83ac-5c3a4881bb6f,identifier.wedding,available,32.49,32.49,high,low,10,namesilo,,,
+15e91549-fd03-419b-83ac-5c3a4881bb6f,identifier.wedding,available,33.98,43.98,high,low,10,namecheap,,,29/09/2026 23:29
 f340632b-0fba-482c-a9a0-93bcdde50e15,hutchins.wedding,available,26.08,26.08,medium,low,8,spaceship,,,28/09/2026 19:28
 7260dc98-856c-4cb9-8434-ce95efe6fabe,bisayan.wedding,available,33.98,43.98,medium,low,7,namecheap,,,23/09/2026 21:29
 083985df-bca9-4790-b80a-b46b26fbe309,dug.wedding,premium,,,high,low,3,,,,28/09/2026 05:32
@@ -663,12 +720,13 @@ f340632b-0fba-482c-a9a0-93bcdde50e15,hutchins.wedding,available,26.08,26.08,medi
 f1ccc373-d134-4ee5-9ed1-15a99e77aff9,attempt.wedding,available,32.49,32.49,high,low,7,namesilo,,,28/09/2026 23:03
 56070988-a9b3-41f0-bf15-ba8073e10c04,airstrip.wedding,available,32.49,32.49,high,low,8,namesilo,,,17/09/2026 23:24
 cac8b245-f7a7-43a8-981d-c1a8833d756c,spavined.wedding,available,32.49,32.49,high,medium,8,namesilo,,,10/09/2026 15:20
+c643e343-5740-491e-aa22-641a1affd937,emptiness.wedding,available,26.08,26.08,medium,low,9,spaceship,,,29/09/2026 18:45
 7262b00c-55ad-45b8-9a6f-7599365e59b9,desirous.wedding,available,32.49,32.49,medium,low,8,namesilo,,,14/08/2026 03:49
 04c6ce97-a51d-4735-812d-a4d45e719a63,markham.wedding,available,26.97,26.97,high,low,7,dynadot,,,27/09/2026 20:59
 a7543b03-5cc0-423e-acfb-a7f2e8b96152,pickups.wedding,available,32.49,32.49,medium,low,7,namesilo,,,20/09/2026 05:31
 6ae32873-b99e-4bec-a91f-784f24f3c29d,buildings.wedding,available,32.49,32.49,medium,low,9,namesilo,,,27/09/2026 09:32
 2ea624a2-d561-48a4-9a97-385a14431d70,warfare.wedding,available,32.49,32.49,high,low,7,namesilo,,,
-e97c4d14-7fae-4a7e-82d4-4ee3e94e4446,webby.wedding,available,32.49,32.49,medium,low,5,namesilo,,,03/09/2026 16:08
+e97c4d14-7fae-4a7e-82d4-4ee3e94e4446,webby.wedding,available,32.49,32.49,high,low,5,namesilo,,,03/09/2026 16:08
 4113013c-6965-48e0-8027-ea3d9fa812ae,gale.wedding,available,32.49,32.49,high,low,4,namesilo,,,29/09/2026 07:02
 a70935c7-7db3-4e86-a722-375a85ccaf42,sterilised.wedding,available,33.98,43.98,medium,low,10,namecheap,,,10/09/2026 20:13
 a6037b96-7e9d-4d0d-8592-3f0fb7c17f11,designed.wedding,premium,96,29.5,high,low,8,namesilo,,,24/09/2026 06:34
@@ -680,8 +738,8 @@ fb091715-ceea-4442-af3c-ed00e43964f1,scandium.wedding,available,32.49,32.49,medi
 0a7794ba-6b19-49f8-901c-72c711d85d53,mutative.wedding,available,32.49,32.49,medium,low,8,namesilo,,,03/09/2026 11:48
 7a22b734-76d7-4da7-9c3a-66e1b18062d2,delusory.wedding,available,33.98,43.98,low,low,8,namecheap,,,13/08/2026 21:18
 54f01c28-c32f-44ac-b52e-904bae950c73,seated.wedding,available,25.2,25.2,high,low,6,cloudflare,,,27/09/2026 19:11
-14bebf1e-6390-4f15-9493-0ce84e23c498,kindled.wedding,available,32.49,32.49,medium,low,7,namesilo,,,17/08/2026 09:33
-4371d428-4c11-453b-a236-86a1fc9041f9,quibble.wedding,available,32.49,32.49,medium,low,7,namesilo,,,23/09/2026 13:17
+14bebf1e-6390-4f15-9493-0ce84e23c498,kindled.wedding,available,32.49,32.49,high,low,7,namesilo,,,17/08/2026 09:33
+4371d428-4c11-453b-a236-86a1fc9041f9,quibble.wedding,available,32.49,32.49,high,low,7,namesilo,,,23/09/2026 13:17
 b3942085-d58c-48b9-b0b3-2db3b9e41aea,yugoslav.wedding,available,32.49,32.49,high,high,8,namesilo,,,13/09/2026 14:51
 d27e0073-5296-46b8-b9e7-338517e41e29,harmonised.wedding,available,32.49,32.49,high,low,10,namesilo,,,12/08/2026 22:52
 8c33f409-3d1c-4dda-8af0-609f3b1b74a3,complaint.wedding,available,32.49,32.49,high,low,9,namesilo,,,25/09/2026 07:37
@@ -691,35 +749,39 @@ d27e0073-5296-46b8-b9e7-338517e41e29,harmonised.wedding,available,32.49,32.49,hi
 edb2057e-be8c-464d-8948-5c4388ee28d5,seeded.wedding,available,32.49,32.49,high,low,6,namesilo,,,10/09/2026 01:43
 0b0c8d1b-5f43-4a49-b448-b588ff82a7d5,cactus.wedding,available,32.49,32.49,high,low,6,namesilo,,,24/09/2026 11:36
 0bae848d-4e4b-449b-a818-7379b612b514,thievery.wedding,available,32.49,32.49,medium,low,8,namesilo,,,11/09/2026 13:20
-afee7f58-9f63-4d18-906f-2d9a6f3a4c4e,licking.wedding,available,32.49,32.49,medium,low,7,namesilo,,,13/09/2026 11:11
+afee7f58-9f63-4d18-906f-2d9a6f3a4c4e,licking.wedding,available,32.49,32.49,high,low,7,namesilo,,,13/09/2026 11:11
 962e4d26-08d7-495a-9f0f-1094b9bbbbdd,correlated.wedding,available,32.49,32.49,high,low,10,namesilo,,,13/08/2026 02:01
 05d90410-e9c2-4790-884b-31122883e539,amply.wedding,available,32.49,32.49,medium,low,5,namesilo,,,13/09/2026 19:37
-57d004a5-bace-4d7e-a388-afe43a31a91a,prizes.wedding,available,33.98,43.98,medium,low,6,namecheap,,,20/09/2026 04:19
+57d004a5-bace-4d7e-a388-afe43a31a91a,prizes.wedding,available,33.98,43.98,high,low,6,namecheap,,,20/09/2026 04:19
 bb250124-687e-4efb-8326-85dda2f79ebb,overeager.wedding,available,33.98,43.98,medium,low,9,namecheap,,,04/09/2026 20:31
 ec72d2d4-a91b-40e3-99af-c33e1ce59509,attica.wedding,available,32.49,32.49,medium,low,6,namesilo,,,21/09/2026 01:42
 8d18f8d6-33c4-4ce7-bafe-9ed6f9b178c5,literary.wedding,available,32.49,32.49,high,low,8,namesilo,,,28/09/2026 07:59
+6d160a5a-91d5-46da-9240-00f052ac5a12,deere.wedding,available,49.99,49.99,high,low,5,godaddy,,,30/09/2026 01:17
 4fc5786c-4f28-49da-b34a-fd75445faee3,bringing.wedding,available,26.08,26.08,high,low,8,spaceship,,,29/09/2026 04:22
 0da54ae3-d004-4034-9576-69a4e3e7adb9,vehement.wedding,available,32.49,32.49,medium,low,8,namesilo,,,11/09/2026 09:44
 48c0a4db-21da-4f5c-ae6a-cf56cf2cf983,sparks.wedding,premium,47.2,29.5,high,low,6,namesilo,,,28/09/2026 12:19
 80d432fc-64b0-4857-b839-a2652b284af3,vedic.wedding,available,32.49,32.49,medium,low,5,namesilo,,,13/09/2026 01:37
 37c5016f-439c-45ab-8211-c43295fe3d22,nonprofit.wedding,available,33.98,43.98,high,low,9,namecheap,,,03/09/2026 18:33
-adfc01a8-4890-401b-bd1b-cddcb5445089,nimbly.wedding,available,33.98,43.98,medium,low,6,namecheap,,,13/09/2026 18:18
+adfc01a8-4890-401b-bd1b-cddcb5445089,nimbly.wedding,available,33.98,43.98,high,low,6,namecheap,,,13/09/2026 18:18
 ec82f2fc-75cf-4eee-97f4-3df401ffe58c,holler.wedding,available,32.49,32.49,high,low,6,namesilo,,,23/09/2026 00:27
 192d5e19-2847-4709-b026-c1a3f25c57dd,parenteral.wedding,available,32.49,32.49,medium,low,10,namesilo,,,08/09/2026 01:19
 bab2aeff-a1e0-468c-b7e6-0056b993707e,cab.wedding,premium,520,32.5,high,low,3,namecheap,,,24/09/2026 11:33
 91cd4ed3-664f-41da-b31e-c077032ba19c,awing.wedding,available,32.49,32.49,medium,low,5,namesilo,,,08/08/2026 00:34
 ac3d3d59-21ab-4f11-8fd3-ab0b4d5a7c7c,aubrey.wedding,available,32.49,32.49,high,low,6,namesilo,,,27/09/2026 07:41
+5f7c636d-a41b-4963-93a7-ccee6e4d2927,thrive.wedding,available,26.08,26.08,high,medium,6,spaceship,,,29/09/2026 18:54
 5d9896d5-b6ff-4418-8ae1-2671a4343bd2,galling.wedding,available,32.49,32.49,high,low,7,namesilo,,,
 e7ceeffd-f732-452d-a394-294357a056d7,riggs.wedding,available,26.08,26.08,medium,low,5,spaceship,,,28/09/2026 08:07
 331ff57b-6367-4228-987d-9f441a59244d,runyon.wedding,available,32.49,32.49,medium,low,6,namesilo,,,18/09/2026 06:27
 a266ade9-a469-41e6-97fd-fbab06fe6c67,bollard.wedding,available,32.49,32.49,medium,low,7,namesilo,,,23/09/2026 22:48
-f29772b7-2a88-4123-b9cf-dca7fd2ac6a9,congestion.wedding,available,32.49,32.49,medium,low,10,namesilo,,,
+f29772b7-2a88-4123-b9cf-dca7fd2ac6a9,congestion.wedding,available,26.08,26.08,high,low,10,spaceship,,,29/09/2026 10:56
 f21038b9-cb81-434c-9199-24fb4231fa7f,palish.wedding,available,32.49,32.49,medium,low,6,namesilo,,,04/09/2026 23:41
 0cce3a9b-f533-4453-a960-7bcd84af6f4a,secretive.wedding,available,32.49,32.49,medium,low,9,namesilo,,,12/08/2026 12:18
 9565070b-2992-4501-b2ec-b2013ef92dd4,underhand.wedding,available,32.49,32.49,high,medium,9,namesilo,,,10/09/2026 12:31
 242d62a6-b690-4212-9bc2-d1a458828aaf,poster.wedding,available,26.08,26.08,high,low,6,spaceship,,,29/09/2026 02:42
 33535d75-789e-4135-8d1e-12518628e5e4,prayerful.wedding,available,32.49,32.49,high,medium,9,namesilo,,,09/09/2026 01:05
-acd53730-b29a-4c87-bacb-0bc6d1816d88,anemia.wedding,available,32.49,32.49,medium,low,6,namesilo,,,19/09/2026 01:16
+2eb373da-9bb8-4b86-9331-21f6e5a044ba,itching.wedding,available,49.99,49.99,medium,low,7,godaddy,,,30/09/2026 02:03
+29a14173-769a-4619-8d19-d8081c180ab0,projector.wedding,available,33.98,43.98,high,low,9,namecheap,,,29/09/2026 20:04
+acd53730-b29a-4c87-bacb-0bc6d1816d88,anemia.wedding,available,32.49,32.49,high,low,6,namesilo,,,19/09/2026 01:16
 8bbfa1ab-fd61-4b74-adfe-d3a3eea68a7c,undeclared.wedding,available,32.49,32.49,medium,low,10,namesilo,,,12/09/2026 07:06
 4188f53b-11d0-48de-8401-ac9dbf88ee36,adapt.wedding,available,25.2,25.2,high,low,5,cloudflare,,,28/09/2026 11:08
 6b53539d-a5a4-4a82-9546-f20646cc4918,screeching.wedding,available,32.49,32.49,medium,low,10,namesilo,,,09/09/2026 23:59
@@ -732,23 +794,25 @@ ab7a3595-1c51-4425-ac32-17cd037f20ea,cousins.wedding,available,33.98,43.98,high,
 83e14aff-c7be-4cdf-b8ab-23ccd0a73f9f,you.wedding,premium,500,,high,medium,3,name.com,,,
 d763d9c2-ed95-4cb4-a5cf-637168063028,beware.wedding,available,25.2,25.2,medium,low,6,cloudflare,,,28/09/2026 20:49
 6c96b36f-df83-4d2f-900c-3d3ed7910d8c,jabiru.wedding,available,32.49,32.49,medium,low,6,namesilo,,,23/09/2026 23:50
+4f573eb8-7db6-4663-a161-6814bc631f9f,bette.wedding,available,26.08,26.08,medium,low,5,spaceship,,,29/09/2026 15:28
 7e868083-ecd3-4e4b-aaa6-bf210b5a3f3b,personalities.wedding,available,26.97,26.97,medium,low,13,dynadot,,,29/09/2026 00:05
 8bbc3e0d-8742-43a5-bd1f-abb6086513fa,exploration.wedding,available,33.98,43.98,high,low,11,namecheap,,,28/09/2026 02:39
 625e893b-d6d9-43b6-bead-25749831ad20,scapegrace.wedding,available,32.49,32.49,medium,low,10,namesilo,,,24/09/2026 01:41
 fb914df8-6050-4d44-a678-98d73eb9d905,damage.wedding,available,32.49,32.49,high,low,6,namesilo,,,25/09/2026 04:36
-01f5900e-d8d4-4482-86be-ea7fcbb1f895,sheppard.wedding,available,33.98,43.98,medium,low,8,namecheap,,,27/09/2026 08:04
+01f5900e-d8d4-4482-86be-ea7fcbb1f895,sheppard.wedding,available,33.98,43.98,high,low,8,namecheap,,,27/09/2026 08:04
 30aef8d3-6b43-43e6-97e4-8de0c1c4cdb9,modest.wedding,available,32.49,32.49,high,low,6,namesilo,,,25/09/2026 06:33
 72d82d2e-df86-4c4e-9fd7-ef17cac6d96b,proscribed.wedding,available,32.49,32.49,medium,low,10,namesilo,,,18/08/2026 11:01
 14e08513-fdd3-48d4-a9ea-9dcf332baa21,fond.wedding,available,32.49,32.49,high,low,4,namesilo,,,21/09/2026 21:45
 f4a983b6-5137-4ef6-ad4a-339896e7bb95,valiant.wedding,available,32.49,32.49,high,low,7,namesilo,,,13/09/2026 00:55
-65dffd3d-5745-46ff-a524-f838233d47f3,mound.wedding,available,33.98,43.98,medium,low,5,namecheap,,,29/09/2026 06:29
+65dffd3d-5745-46ff-a524-f838233d47f3,mound.wedding,available,33.98,43.98,high,low,5,namecheap,,,29/09/2026 06:29
+c7c8a8d0-48a2-45e2-8ecd-f556e296a854,orient.wedding,premium,47.2,29.5,high,medium,6,namesilo,,,29/09/2026 12:08
 146eb737-514f-42b0-9eb6-7de0af64739a,temptable.wedding,available,32.49,32.49,medium,low,9,namesilo,,,11/09/2026 11:04
 90b8275d-85c1-4647-9e2d-03dca2d06d49,divergent.wedding,available,32.49,32.49,high,low,9,namesilo,,,14/08/2026 13:35
 4ff205c1-5532-4ae0-8512-565f814971ba,milksop.wedding,available,32.49,32.49,medium,low,7,namesilo,,,10/09/2026 08:50
 3e8fd62a-e51c-4abc-9632-93b9477c8387,prelim.wedding,available,32.49,32.49,high,medium,6,namesilo,,,09/09/2026 01:38
 dd85ece4-8188-45af-bf7e-22e47f002e56,treed.wedding,available,32.49,32.49,medium,low,5,namesilo,,,07/08/2026 11:13
 b3d6fbdd-2840-4d79-9084-7a24ded84c07,beak.wedding,available,33.98,43.98,high,low,4,namecheap,,,22/09/2026 19:41
-f473f868-c676-4609-a8b9-66d26cc66572,ethnical.wedding,available,32.49,32.49,medium,low,8,namesilo,,,17/08/2026 13:49
+f473f868-c676-4609-a8b9-66d26cc66572,ethnical.wedding,available,32.49,32.49,high,low,8,namesilo,,,17/08/2026 13:49
 a076b227-5cf7-416e-8149-18dec5fa1b20,ducky.wedding,available,46.99,46.99,high,low,5,name.com,,,13/08/2026 18:23
 4b434ca7-211a-4d75-a45a-f8b3f20e435c,unobserved.wedding,available,32.49,32.49,medium,low,10,namesilo,,,12/09/2026 16:04
 a134b2a6-16eb-40d8-adbb-2f1425804d31,suppressed.wedding,available,32.49,32.49,high,medium,10,namesilo,,,10/09/2026 12:14
@@ -765,6 +829,7 @@ a5b7e4cf-2eb4-4afc-a8b6-61493a2e559c,roof.wedding,available,32.49,32.49,high,low
 5de67f66-9dce-40ff-8ac0-91e7740bdcad,balaena.wedding,available,33.98,43.98,medium,low,7,namecheap,,,21/09/2026 20:30
 166b4a6b-e7a3-405c-99f4-4c5a31127056,elect.wedding,available,32.49,32.49,high,low,5,namesilo,,,16/08/2026 02:30
 47edef98-deed-400a-912b-830e1cf53ac6,thrashing.wedding,available,32.49,32.49,medium,low,9,namesilo,,,13/09/2026 07:54
+ae24b447-fab5-4086-84a8-02bdb57b6f29,metropolis.wedding,available,26.08,26.08,high,low,10,spaceship,,,30/09/2026 01:03
 1ff1220b-2e26-4b15-87d5-b11c15b0e814,unnerved.wedding,available,32.49,32.49,medium,low,8,namesilo,,,12/09/2026 15:54
 7ab94b71-089f-40ce-856e-d93fce64d447,stories.wedding,available,32.49,32.49,high,medium,7,namesilo,,,17/09/2026 13:42
 7c8dfc80-494e-41f2-976f-7b91d29418c6,salts.wedding,available,32.49,32.49,medium,low,5,namesilo,,,20/09/2026 01:25
@@ -772,7 +837,7 @@ b203f579-b6c4-428f-9c78-87491217b1b4,infancy.wedding,available,32.49,32.49,high,
 b196e8fb-48da-4bc2-970f-ed5912b39d05,drowned.wedding,available,26.08,26.08,medium,low,7,spaceship,,,27/09/2026 22:47
 3576bbb5-ce5a-4f88-851f-40041575181e,youngest.wedding,available,32.49,32.49,high,low,8,namesilo,,,
 53497f95-cccb-4c84-b9bf-81bb3d4bb2a0,palpitant.wedding,available,32.49,32.49,medium,low,9,namesilo,,,05/09/2026 00:17
-8140c280-5a14-431b-b063-7d40e0adeb64,teensy.wedding,available,32.49,32.49,medium,low,6,namesilo,,,10/08/2026 08:01
+8140c280-5a14-431b-b063-7d40e0adeb64,teensy.wedding,available,32.49,32.49,high,low,6,namesilo,,,10/08/2026 08:01
 da4bbdb7-750f-4034-82fb-a321af0e42e6,argonaut.wedding,available,32.49,32.49,medium,low,8,namesilo,,,20/09/2026 04:31
 092fb2ac-e3c6-4d57-8fea-63b005dc5d92,argiope.wedding,available,32.49,32.49,medium,low,7,namesilo,,,20/09/2026 04:25
 d146c0ad-ad66-408e-82a1-c02ea809b0ed,knights.wedding,available,32.49,32.49,high,low,7,namesilo,,,27/09/2026 18:23
@@ -780,16 +845,17 @@ d146c0ad-ad66-408e-82a1-c02ea809b0ed,knights.wedding,available,32.49,32.49,high,
 37b78812-ec40-48e6-8ba0-194383e984d1,plaza.wedding,available,26.08,26.08,high,low,5,spaceship,,,28/09/2026 06:36
 ded7c81b-3836-4ef6-9f8a-262b28ed10b2,truth.wedding,available,25.2,25.2,high,medium,5,cloudflare,,,28/09/2026 17:29
 36eafd98-d3b8-4549-850c-248da765018e,jong.wedding,available,26.08,26.08,medium,low,4,spaceship,,,28/09/2026 14:03
-ccf8ce7a-9283-4db8-bdc9-845c9d378fda,insurance.wedding,resell,,,high,medium,9,Dynadot Inc,08/04/2015 16:00,08/04/2027 16:00,26/09/2026 06:54
+ccf8ce7a-9283-4db8-bdc9-845c9d378fda,insurance.wedding,resell,,,high,medium,9,Dynadot Inc,08/04/2015 16:00,08/04/2027 16:00,29/09/2026 23:58
 b04a235b-adfb-4e69-8dd0-95f22fcc70db,unofficial.wedding,available,32.49,32.49,medium,low,10,namesilo,,,12/09/2026 16:10
 cabe624c-c637-4551-8f5e-4f72941ab5fa,heartless.wedding,available,32.49,32.49,medium,low,9,namesilo,,,21/08/2026 00:47
 6223b5e0-3db6-4db0-b83b-dc2d8b596208,terror.wedding,available,25.2,25.2,high,low,6,cloudflare,,,28/09/2026 19:24
-e2061ddb-6700-4fbd-9d9f-dd38b02a7898,condition.wedding,available,32.49,32.49,high,low,9,namesilo,,,
+e2061ddb-6700-4fbd-9d9f-dd38b02a7898,condition.wedding,available,26.97,26.97,high,low,9,dynadot,,,29/09/2026 10:38
 087bf300-3ee1-4857-95f2-915eeb44f14b,asymmetric.wedding,available,32.49,32.49,medium,low,10,namesilo,,,07/08/2026 10:25
 e78dd3a6-322b-4039-9e14-ff4a40c51e18,loop.wedding,available,26.08,26.08,high,high,4,spaceship,,,28/09/2026 07:30
+d4b815f5-708e-4200-b3c4-70b8016d0b29,mysteriously.wedding,available,25.2,25.2,medium,low,12,cloudflare,,,30/09/2026 04:03
 8ea3d92f-ce23-4f61-aeaa-9f86305da6ea,hic.wedding,premium,47.2,29.5,high,low,3,namesilo,,,
 59ba09b8-db96-4c15-b796-426ae9cb7e1d,anklet.wedding,available,33.98,43.98,high,low,6,namecheap,,,19/09/2026 09:41
-bbe8addb-cd0e-4f05-b6e3-b58d5c077a94,staple.wedding,available,32.49,32.49,medium,low,6,namesilo,,,10/09/2026 18:45
+bbe8addb-cd0e-4f05-b6e3-b58d5c077a94,staple.wedding,available,32.49,32.49,high,low,6,namesilo,,,10/09/2026 18:45
 6e2cdd64-16a6-41cc-b866-0dda67310618,rectal.wedding,available,32.49,32.49,medium,low,6,namesilo,,,09/09/2026 11:51
 15b304c9-25ff-4d98-b16a-4609da748017,beaumont.wedding,premium,47.2,29.5,high,low,8,namesilo,,,22/09/2026 22:14
 ff6fa297-3d05-4bde-8d23-c77dc24f3f9d,elsa.wedding,available,32.49,32.49,high,low,4,namesilo,,,28/09/2026 08:37
@@ -797,22 +863,23 @@ ff6fa297-3d05-4bde-8d23-c77dc24f3f9d,elsa.wedding,available,32.49,32.49,high,low
 bb720a23-915b-4a66-8b0c-ad9f8a1b09ca,during.wedding,available,32.49,32.49,medium,low,6,namesilo,,,
 2c6bf2b4-4259-4ace-bcab-c243b0a4713f,obliquity.wedding,available,33.98,43.98,medium,low,9,namecheap,,,20/09/2026 18:47
 211257b8-2a75-4ece-88c0-35bb4b3f5ba6,vexing.wedding,available,32.49,32.49,medium,low,6,namesilo,,,
-cb63bcfe-f446-46de-9541-e7dea77785c6,cookie.wedding,available,32.49,32.49,high,low,6,namesilo,,,
+cb63bcfe-f446-46de-9541-e7dea77785c6,cookie.wedding,available,32.49,32.49,high,low,6,namesilo,,,29/09/2026 11:31
 d18b72d2-6cd1-45f4-a1d9-a4908630c987,tame.wedding,premium,242,29.5,high,low,4,namesilo,,,11/09/2026 07:40
-35816b39-05e7-45ad-a66a-52e12528013b,mannerism.wedding,available,32.49,32.49,medium,low,9,namesilo,,,17/09/2026 14:14
+35816b39-05e7-45ad-a66a-52e12528013b,mannerism.wedding,available,32.49,32.49,high,low,9,namesilo,,,17/09/2026 14:14
 d593e16e-8171-4334-9a8e-e573cc5a2d9b,mild.wedding,available,33.98,43.98,high,low,4,namecheap,,,25/09/2026 18:55
+e51ba246-8152-4cf6-8e52-80033916ceb9,fai.wedding,premium,44,26.97,high,low,3,dynadot,,,29/09/2026 09:08
 6c9bbeba-1d58-45b6-9c99-cf6d2bcf88a1,wounded.wedding,available,32.49,32.49,high,low,7,namesilo,,,25/09/2026 06:51
 cc432d72-c8bd-4763-9a9a-26e4e1a12420,possibilities.wedding,available,32.49,32.49,medium,low,13,namesilo,,,16/09/2026 10:01
 96b2a4c3-0d64-4cf6-9152-c3449c5c378e,inspiration.wedding,premium,96,29.5,high,low,11,namesilo,,,
 73754cf3-a607-44ac-9e34-9bc11b383a44,baleen.wedding,available,32.49,32.49,medium,low,6,namesilo,,,21/09/2026 21:51
-aaa2c436-16f8-4f81-bc51-c5205588594c,ashkenazi.wedding,available,33.98,43.98,medium,low,9,namecheap,,,20/09/2026 13:54
+aaa2c436-16f8-4f81-bc51-c5205588594c,ashkenazi.wedding,available,33.98,43.98,high,low,9,namecheap,,,20/09/2026 13:54
 23b7a4ff-168b-4c6c-b1ec-063d04d8450e,combine.wedding,available,33.98,43.98,high,low,7,namecheap,,,28/09/2026 13:39
 7dd7b579-dfcc-45ea-a812-0d1fbe7df5c3,voiceless.wedding,available,32.49,32.49,medium,low,9,namesilo,,,05/08/2026 23:23
 1beefd60-e65f-4440-8c72-c46926b73521,filetype.wedding,available,32.49,32.49,medium,low,9,namesilo,,,
 5bd8abf9-9265-4e98-9182-adb343758801,aiglet.wedding,available,33.98,43.98,medium,low,6,namecheap,,,17/09/2026 18:23
 326612fb-49eb-44e8-af1b-65170a1796ae,glary.wedding,available,32.49,32.49,medium,low,5,namesilo,,,10/08/2026 13:49
 1b60c592-1291-4b58-9ea4-34ac42a1930e,inspiring.wedding,available,33.98,43.98,high,low,9,namecheap,,,25/09/2026 09:50
-8a380d33-21c0-4902-a835-bd1261eeb99d,volume.wedding,available,32.49,32.49,high,low,6,namesilo,,,
+8a380d33-21c0-4902-a835-bd1261eeb99d,volume.wedding,available,32.49,32.49,high,low,6,namesilo,,,30/09/2026 03:23
 15893266-b0a6-434d-afa8-24ea05066bd0,herewith.wedding,available,32.49,32.49,medium,low,8,namesilo,,,15/09/2026 00:27
 b68f2edd-bd4c-4d13-99ed-cefebac5e87e,edward.wedding,available,32.49,32.49,high,low,6,namesilo,,,18/09/2026 02:39
 88728d6a-428a-4f8a-9306-ee8854e01b28,alimony.wedding,available,33.98,43.98,medium,low,7,namecheap,,,28/09/2026 20:27
@@ -820,7 +887,7 @@ b68f2edd-bd4c-4d13-99ed-cefebac5e87e,edward.wedding,available,32.49,32.49,high,l
 b6266e9c-2e3f-4c87-aa0f-4d12915058f3,grams.wedding,available,32.49,32.49,high,low,5,namesilo,,,18/09/2026 05:03
 630efef5-67de-4d1f-a26e-99b43c1c7ace,sassy.wedding,available,33.98,43.98,high,low,5,namecheap,,,04/09/2026 20:24
 1e13f16d-89da-4d97-a190-3140c520a716,basalt.wedding,available,32.49,32.49,medium,low,6,namesilo,,,22/09/2026 09:53
-244241f7-866e-44fb-9dd2-993d946a738e,pain.wedding,available,32.49,32.49,high,low,4,namesilo,,,
+244241f7-866e-44fb-9dd2-993d946a738e,pain.wedding,available,25.2,25.2,high,low,4,cloudflare,,,29/09/2026 23:26
 6da68c75-acf6-4e02-8523-6c41160c28e3,apothegm.wedding,available,32.49,32.49,medium,low,8,namesilo,,,19/09/2026 17:10
 3241d349-a25d-4fd8-a93c-98b7817332e4,ajaia.wedding,available,32.49,32.49,medium,low,5,namesilo,,,17/09/2026 23:39
 355c9d6b-3d4a-4420-81ab-07894f78c978,profession.wedding,available,32.49,32.49,high,low,10,namesilo,,,
@@ -846,13 +913,13 @@ d64188ef-51ad-4547-9df3-407941e20732,overmuch.wedding,available,33.98,43.98,medi
 a9d4ac45-7222-416c-b40c-6936429e6edc,bellflower.wedding,available,32.49,32.49,high,low,10,namesilo,,,23/09/2026 06:06
 4f34a82a-12d6-4ccd-b0e8-98a3cb27e84e,abatic.wedding,available,32.49,32.49,medium,low,6,namesilo,,,
 253c4a3c-83c2-4f1c-a477-76f33caf72d8,norwalk.wedding,available,32.49,32.49,medium,low,7,namesilo,,,28/09/2026 12:08
-edc1f5c4-4245-49ed-9d60-8f5484976f6f,talent.wedding,available,32.49,32.49,high,medium,6,namesilo,,,
-5e7c4775-efac-4a5b-838d-dbb58b48d8ba,cockpit.wedding,available,32.49,32.49,high,low,7,namesilo,,,
+edc1f5c4-4245-49ed-9d60-8f5484976f6f,talent.wedding,available,26.97,26.97,high,medium,6,dynadot,,,29/09/2026 18:11
+5e7c4775-efac-4a5b-838d-dbb58b48d8ba,cockpit.wedding,available,26.08,26.08,high,low,7,spaceship,,,29/09/2026 10:12
 5e0897c6-127b-498b-8db1-ee8863f4c549,carrying.wedding,available,32.49,32.49,high,low,8,namesilo,,,
 3044913f-1649-4acf-8949-c2e55c37fa5f,single.wedding,available,33.98,43.98,high,low,6,namecheap,,,21/09/2026 10:43
 81c59cb3-9573-4b55-afb3-177995ed559d,hostile.wedding,available,32.49,32.49,high,low,7,namesilo,,,25/09/2026 00:05
 60852cbb-0dd0-43b4-8b5a-d27c214bd89a,geographic.wedding,available,32.49,32.49,high,low,10,namesilo,,,18/08/2026 22:27
-13d86859-db1a-4b37-9d79-0d2ad28203ae,sympathy.wedding,available,32.49,32.49,high,low,8,namesilo,,,
+13d86859-db1a-4b37-9d79-0d2ad28203ae,sympathy.wedding,available,33.98,43.98,high,low,8,namecheap,,,29/09/2026 19:11
 8a1155a8-c48d-450e-96c4-c0387562c597,unredeemed.wedding,available,33.98,43.98,medium,low,10,namecheap,,,12/09/2026 17:55
 15e9e0f0-fe48-4013-b226-5ee6d41d5a72,biff.wedding,available,33.98,43.98,medium,low,4,namecheap,,,23/09/2026 13:51
 bae25464-2677-468e-9237-5020eb1f2fb5,sky.wedding,premium,242,242,high,medium,3,namesilo,,,
@@ -860,40 +927,47 @@ bae25464-2677-468e-9237-5020eb1f2fb5,sky.wedding,premium,242,242,high,medium,3,n
 2b293ec6-f1f1-47a8-b635-86c515a59b29,huston.wedding,available,26.08,26.08,medium,low,6,spaceship,,,28/09/2026 14:28
 cdbb9092-03e9-445c-b50a-8ce42220358d,aconite.wedding,available,32.49,32.49,medium,low,7,namesilo,,,17/09/2026 02:05
 6ed7c7b0-f31a-4e1c-8fcb-59b9d5e47ffd,hebron.wedding,available,25.2,25.2,medium,low,6,cloudflare,,,28/09/2026 16:34
+114a49fb-bbee-4010-bca1-c2299855afba,ripon.wedding,available,25.2,25.2,high,low,5,cloudflare,,,29/09/2026 16:21
 ce5c7a0c-4218-4e3a-846c-43882c938b63,actuate.wedding,available,32.49,32.49,high,low,7,namesilo,,,09/09/2026 03:15
 590f1a5d-dcbc-4eb5-9048-9bdc856e1f09,defile.wedding,available,32.49,32.49,medium,low,6,namesilo,,,24/08/2026 12:53
 6647ff56-aa52-4e77-9a87-1517deacdca9,aught.wedding,available,32.49,32.49,medium,low,5,namesilo,,,03/09/2026 22:36
 040fc1dd-33fa-4960-a395-9250c1128c5f,colombo.wedding,available,26.97,26.97,high,low,7,dynadot,,,29/09/2026 07:00
-37ab3b34-3d90-4c90-8157-a2450314b22b,lake.wedding,premium,242,29.5,high,low,4,namesilo,,,
+37ab3b34-3d90-4c90-8157-a2450314b22b,lake.wedding,premium,242,29.5,high,low,4,namesilo,,,30/09/2026 01:56
 f7b8aa41-1eda-4585-b772-1850f77ea175,consideration.wedding,available,26.08,26.08,high,low,13,spaceship,,,28/09/2026 04:23
 6add65a6-2df1-4cb8-a18d-2e8c41742283,xii.wedding,premium,47.2,29.5,high,low,3,namesilo,,,21/09/2026 11:25
-ef060b0a-5371-4681-9292-603a76e3dda7,tippy.wedding,available,32.49,32.49,medium,low,5,namesilo,,,13/08/2026 04:55
+ef060b0a-5371-4681-9292-603a76e3dda7,tippy.wedding,available,32.49,32.49,high,low,5,namesilo,,,13/08/2026 04:55
 6f46ee20-46b0-4e20-904b-7d645165700b,insatiable.wedding,available,32.49,32.49,medium,low,10,namesilo,,,22/08/2026 06:33
 8960ea87-4633-4aa7-9602-818a23c0b949,ngo.wedding,premium,52,32.5,high,low,3,namecheap,,,27/09/2026 04:51
 c5f9cf95-3661-44c2-8b62-da7e4a172db1,per.wedding,premium,50,,high,low,3,name.com,,,
 642f19e3-d19a-4f8b-9c4f-854355b5e886,consul.wedding,available,32.49,32.49,high,low,6,namesilo,,,24/09/2026 17:37
+b6a13866-4752-4e0b-9e2e-53256a23aafe,murat.wedding,available,26.08,26.08,high,low,5,spaceship,,,29/09/2026 22:16
 97777977-187d-46bd-85f7-ced42c0c385b,bengali.wedding,premium,47.2,29.5,medium,low,7,namesilo,,,09/08/2026 14:29
 ae3ddc95-f2ad-48a2-96ad-712ae2f920b0,otc.wedding,premium,47.2,29.5,high,low,3,namesilo,,,04/09/2026 18:34
+5e83d565-0368-4eb2-93a5-d5980e65c31b,striker.wedding,available,26.26,26.26,high,low,7,porkbun,,,29/09/2026 08:09
 d6e6c48f-0145-4ea6-8564-a14477a10d29,agnostic.wedding,available,32.49,32.49,high,low,8,namesilo,,,21/09/2026 23:11
 46518c8b-ae9b-4d43-9c44-e017b8cb3627,listened.wedding,available,33.98,43.98,medium,low,8,namecheap,,,25/09/2026 19:45
 39747134-4271-46db-b045-ec24d256b237,fiduciary.wedding,available,32.49,32.49,high,low,9,namesilo,,,18/08/2026 03:39
 d126c825-47a4-4b26-b8a5-ec52fc656eaa,washable.wedding,available,32.49,32.49,high,low,8,namesilo,,,13/09/2026 08:29
-8c1a3656-a2de-4928-9fa4-c1a9fb1a64d3,amman.wedding,available,32.49,32.49,medium,low,5,namesilo,,,18/09/2026 21:59
+8c1a3656-a2de-4928-9fa4-c1a9fb1a64d3,amman.wedding,available,32.49,32.49,high,low,5,namesilo,,,18/09/2026 21:59
 fc4d01be-d728-4b65-8585-f73e650b266b,just.wedding,resell,,,high,medium,4,"Spaceship, Inc.",27/12/2023 22:20,27/12/2026 22:20,26/09/2026 07:03
-d229b1a8-6ce3-48ca-b84f-3af1c7faee51,gatherer.wedding,available,32.49,32.49,medium,low,8,namesilo,,,16/09/2026 23:20
+d229b1a8-6ce3-48ca-b84f-3af1c7faee51,gatherer.wedding,available,32.49,32.49,high,low,8,namesilo,,,16/09/2026 23:20
 edd49d23-40c4-4085-af54-45d169984881,trout.wedding,available,32.49,32.49,high,low,5,namesilo,,,28/09/2026 06:50
 0d4c1b09-7e4c-41ca-813d-f8b27af82253,unexpired.wedding,available,32.49,32.49,medium,low,9,namesilo,,,12/09/2026 09:38
 13895637-dcb1-46f6-87ad-f3c0fa3e9055,clubbish.wedding,available,32.49,32.49,low,low,8,namesilo,,,12/08/2026 12:59
+6f74b7c6-1f01-4596-8b43-57b88cf05c63,insider.wedding,available,33.98,43.98,high,low,7,namecheap,,,29/09/2026 19:20
 a01d166e-bf52-4b9a-946b-71b040700a7c,drily.wedding,available,32.49,32.49,medium,low,5,namesilo,,,14/09/2026 14:23
 22f8e358-58eb-45be-a4ca-b26ffa9fb521,unchained.wedding,available,32.49,32.49,high,low,9,namesilo,,,12/09/2026 04:54
 160838fc-c095-4a1f-9dca-abd7a7579f86,knocks.wedding,available,33.98,43.98,medium,low,6,namecheap,,,20/09/2026 13:49
 f453a93e-a300-409f-b431-b48b7a8acbcc,souther.wedding,available,32.49,32.49,high,medium,7,namesilo,,,10/09/2026 14:54
+6b4ead2b-8525-4e33-8b75-dd7815ee34cb,krishna.wedding,available,26.08,26.08,high,low,7,spaceship,,,29/09/2026 07:26
 0c6cfbda-6a8c-4725-9385-79cf517324db,skyline.wedding,available,33.98,43.98,high,low,7,namecheap,,,19/09/2026 20:18
-3cf5de53-9717-46a1-a559-dc77d9fac431,disrepair.wedding,available,32.49,32.49,medium,low,9,namesilo,,,24/09/2026 23:02
-f78ef5ad-d696-4ebc-85fc-713d4a58fb42,mandaean.wedding,available,32.49,32.49,medium,low,8,namesilo,,,24/08/2026 14:38
+3cf5de53-9717-46a1-a559-dc77d9fac431,disrepair.wedding,available,32.49,32.49,high,low,9,namesilo,,,24/09/2026 23:02
+f78ef5ad-d696-4ebc-85fc-713d4a58fb42,mandaean.wedding,available,32.49,32.49,high,low,8,namesilo,,,24/08/2026 14:38
 f816b4e2-fee7-48d3-b1f9-132b55204cba,arthritis.wedding,available,32.49,32.49,high,low,9,namesilo,,,20/09/2026 10:37
 cefe890e-3211-4856-8896-1f368572bdec,riffle.wedding,available,32.49,32.49,medium,low,6,namesilo,,,12/09/2026 08:36
+d2f45cc6-37b4-4cbe-8e98-f9e87db3de42,democrats.wedding,available,32.49,32.49,medium,low,9,namesilo,,,30/09/2026 00:47
 ca44938e-6351-4116-a765-42a05faeff04,compulsive.wedding,available,32.49,32.49,high,low,10,namesilo,,,12/08/2026 19:40
+c48d0416-0971-4638-85f9-ddd67e3606f5,opponents.wedding,available,26.08,26.08,low,low,9,spaceship,,,29/09/2026 16:42
 be3b1b64-c051-43d4-be32-78cadd70e5b9,cations.wedding,available,26.08,26.08,low,low,7,spaceship,,,28/09/2026 23:14
 26e29bd3-9d38-49e9-be7d-5f467dfcd0d7,advances.wedding,available,32.49,32.49,medium,low,8,namesilo,,,28/09/2026 23:36
 5d1a73f6-61f9-426f-b044-40e24e387129,remembered.wedding,available,32.49,32.49,high,low,10,namesilo,,,17/09/2026 12:04
@@ -901,15 +975,16 @@ be3b1b64-c051-43d4-be32-78cadd70e5b9,cations.wedding,available,26.08,26.08,low,l
 15aa21c9-ac21-4d8f-b167-177352a4927c,septuple.wedding,available,32.49,32.49,medium,low,8,namesilo,,,10/09/2026 04:23
 ab60314b-223b-4b8b-bc77-a0e1d6a9695b,exits.wedding,available,32.49,32.49,medium,low,5,namesilo,,,28/09/2026 17:05
 2f9155b2-9182-4089-97e0-b943d3020159,third.wedding,available,,,high,low,5,,,,
-c65e79fc-0f8f-4077-9ccc-88abd919716c,replacing.wedding,available,25.2,25.2,medium,low,9,cloudflare,,,29/09/2026 02:02
+c65e79fc-0f8f-4077-9ccc-88abd919716c,replacing.wedding,available,25.2,25.2,high,low,9,cloudflare,,,29/09/2026 02:02
 72126c46-56be-4a5e-9e39-7304cab1ae2e,triggered.wedding,available,32.49,32.49,medium,low,9,namesilo,,,29/09/2026 05:24
 aa2e2bfa-7526-451c-b2b0-c6f54e37b66d,bryan.wedding,available,33.98,43.98,high,low,5,namecheap,,,29/09/2026 03:53
 ca1ac607-8eac-47d9-9b03-1c07bc47ddd2,middling.wedding,available,32.49,32.49,medium,low,8,namesilo,,,22/08/2026 13:46
 1e74df70-f535-4321-8238-73639243e4a9,got.wedding,premium,47.2,29.5,high,low,3,namesilo,,,27/09/2026 07:08
 d1c21cfa-b64a-4e3f-9c22-42fff7b9c373,albinotic.wedding,available,32.49,32.49,medium,low,9,namesilo,,,
-d0befe64-0f0c-466a-a3fa-f2c0b89d6d49,limestone.wedding,available,32.49,32.49,high,low,9,namesilo,,,
+d0befe64-0f0c-466a-a3fa-f2c0b89d6d49,limestone.wedding,available,26.08,26.08,high,low,9,spaceship,,,30/09/2026 02:56
 c842f55c-80bd-4fb4-8f61-8bb993f8f603,songwriter.wedding,available,32.49,32.49,high,low,10,namesilo,,,21/09/2026 22:37
 0108f26a-4ce9-40f2-83c1-9c42b0390cb9,gaps.wedding,available,32.49,32.49,medium,low,4,namesilo,,,20/09/2026 11:47
+06029b38-d135-473d-8991-be029bff0426,sars.wedding,available,26.08,26.08,medium,low,4,spaceship,,,29/09/2026 20:17
 e6f1f3e8-fee4-4100-86aa-126e40411b79,preanal.wedding,available,32.49,32.49,high,medium,7,namesilo,,,09/09/2026 01:09
 8cbbe3cd-efde-44c3-b2db-f991973f4cb8,nattily.wedding,available,32.49,32.49,medium,low,7,namesilo,,,15/09/2026 16:12
 5869ff0a-81ea-4593-bf1e-4c9186285bde,pla.wedding,premium,,,high,low,3,,,,27/09/2026 18:08
@@ -920,82 +995,7 @@ b6f9a218-3527-4851-885a-cfc7bda599c9,slapdash.wedding,available,32.49,32.49,medi
 dde7f467-d5d7-496d-a89f-e679d36969ca,sprigged.wedding,available,32.49,32.49,low,low,8,namesilo,,,10/09/2026 16:47
 a38def09-df2a-4547-ad8c-5bdf18166128,unfair.wedding,available,26.08,26.08,medium,low,6,spaceship,,,28/09/2026 09:45
 f982c64a-6f09-4c2e-a561-aeab60ab64b0,bettong.wedding,available,32.49,32.49,medium,low,7,namesilo,,,23/09/2026 11:46
+1951deea-de9f-465f-850d-47dc38307b72,flaws.wedding,available,26.08,26.08,medium,low,5,spaceship,,,29/09/2026 17:49
 f3b78324-4938-4cfb-89d5-9564c2c2124b,placeable.wedding,available,33.98,43.98,high,medium,9,namecheap,,,08/09/2026 20:14
-041588fc-8375-4c23-9d60-1b9c61204a09,selenium.wedding,available,32.49,32.49,medium,low,8,namesilo,,,20/09/2026 22:53
+041588fc-8375-4c23-9d60-1b9c61204a09,selenium.wedding,available,32.49,32.49,high,low,8,namesilo,,,20/09/2026 22:53
 8aa5e963-7454-498a-b8fb-1dcae5337927,abnaki.wedding,available,32.49,32.49,medium,low,6,namesilo,,,
-34dc1f84-4149-43c5-a98b-d19f8729e870,mechanized.wedding,available,32.49,32.49,medium,low,10,namesilo,,,19/09/2026 16:26
-f0353449-e8da-4c96-89dd-a956f3e56e72,article.wedding,available,32.49,32.49,high,low,7,namesilo,,,20/09/2026 11:12
-5e056fc9-60f5-45bf-97e3-7d949359e97b,keane.wedding,available,25.2,25.2,medium,low,5,cloudflare,,,28/09/2026 18:07
-2ede28cb-4867-4379-9538-152ad40353f9,hassium.wedding,available,33.98,43.98,medium,low,7,namecheap,,,20/09/2026 22:10
-cce88061-a002-4dd6-95f3-ddd521d1447a,dinner.wedding,premium,5000,,high,low,6,name.com,,,
-1bbf9734-3726-48c5-b7be-e1fa53c34371,barbwire.wedding,available,32.49,32.49,medium,low,8,namesilo,,,22/09/2026 04:47
-c0638113-b691-49b8-96df-573bca1714fe,barbara.wedding,available,32.49,32.49,high,low,7,namesilo,,,25/09/2026 11:55
-d6b222f4-7152-491c-b789-e1ddfcea0a4e,assessment.wedding,available,26.26,26.26,high,low,10,porkbun,,,28/09/2026 06:37
-5365b357-a6de-4cc9-ac20-f1ebc424aa27,concerned.wedding,available,33.98,43.98,high,low,9,namecheap,,,23/09/2026 18:58
-ab2f1d84-da74-4645-86d3-6b0f64062e84,thundery.wedding,available,46.99,46.99,medium,low,8,name.com,,,13/08/2026 19:58
-4281ad44-339d-4c0d-b4cb-37364c4df4d5,erect.wedding,available,32.49,32.49,high,low,5,namesilo,,,17/08/2026 12:04
-5e18c544-dc97-44eb-a1d7-612fe8b859c0,hinault.wedding,available,32.49,32.49,medium,low,7,namesilo,,,23/09/2026 09:48
-c8eab36e-1de2-44ce-9c99-8d4e687ec0bb,bardic.wedding,available,33.98,43.98,medium,low,6,namecheap,,,08/08/2026 18:00
-168ad86b-5e6e-4c9e-bf4b-a81e98756052,burkina.wedding,available,25.2,25.2,high,high,7,cloudflare,,,28/09/2026 16:33
-ba4c844c-8d42-494d-8669-482e4f98c61d,sentiments.wedding,available,32.49,32.49,medium,low,10,namesilo,,,17/09/2026 07:39
-9d3dce00-c899-42e4-91c1-e5781855a4fb,roundly.wedding,available,32.49,32.49,medium,low,7,namesilo,,,14/09/2026 00:45
-9703dedb-a847-4b33-9698-6592fe123ed2,guthrie.wedding,available,32.49,32.49,high,low,7,namesilo,,,25/09/2026 06:47
-9c34e3b7-f5d7-4d89-acf8-37138ce4251e,trojan.wedding,available,33.98,43.98,high,low,6,namecheap,,,11/09/2026 20:17
-66a46638-b098-45e7-8c99-3705cf22923c,moderating.wedding,available,32.49,32.49,medium,low,10,namesilo,,,25/08/2026 02:56
-bdf754c8-2b46-4294-9069-24e81eefbdda,dorothy.wedding,available,33.98,43.98,medium,low,7,namecheap,,,25/09/2026 14:18
-d800145d-224e-44e3-a4a7-01915e13760c,becomes.wedding,available,32.49,32.49,medium,low,7,namesilo,,,27/09/2026 10:31
-ef789614-f93c-4430-8e4a-cc8eb12f497b,cork.wedding,available,33.98,43.98,high,low,4,namecheap,,,29/09/2026 00:12
-a7cde695-972e-42b8-bdda-ead8b739aa1b,nemesis.wedding,available,33.98,43.98,high,low,7,namecheap,,,22/09/2026 01:42
-2a30e39a-3dae-462d-9fea-63d394edd651,surfaces.wedding,available,32.49,32.49,medium,low,8,namesilo,,,
-1ad53af0-8d0c-4869-980c-5bb42458f185,bradshaw.wedding,available,46.99,46.99,high,low,8,name.com,,,27/09/2026 18:05
-7d7ca9c0-f3e0-4eca-ad5e-d992c9cc366b,blaster.wedding,available,33.98,43.98,high,low,7,namecheap,,,24/09/2026 04:22
-e55f7621-5769-4c05-abe4-163eee707bc7,retard.wedding,available,33.98,43.98,high,low,6,namecheap,,,21/08/2026 20:33
-00113cde-9089-459d-8271-020958507166,lionel.wedding,available,32.49,32.49,medium,low,6,namesilo,,,28/09/2026 16:08
-c25804f7-ee0e-4525-81e0-eab1891ddb8c,naseby.wedding,available,32.49,32.49,medium,low,6,namesilo,,,22/09/2026 15:31
-094c03c8-862c-47f2-bedd-65a830c6a71f,capitate.wedding,available,33.98,43.98,medium,low,8,namecheap,,,11/08/2026 17:57
-a94afd9d-137e-446f-b615-b80fa7e29fd1,bollock.wedding,available,32.49,32.49,medium,low,7,namesilo,,,21/09/2026 23:08
-31969211-36de-49a6-8375-d0517e56ea93,scooped.wedding,available,32.49,32.49,medium,low,7,namesilo,,,17/09/2026 23:31
-78c1d9b2-3218-427c-89fb-87867fccf95f,kid.wedding,premium,47.2,29.5,high,low,3,namesilo,,,25/09/2026 12:09
-abf51efb-7bdb-4056-bc03-68fbd145c552,causally.wedding,available,32.49,32.49,medium,low,8,namesilo,,,14/09/2026 06:01
-0b4cbed0-aca0-4901-9a8b-bd6ab59d9ced,dubious.wedding,available,32.49,32.49,medium,low,7,namesilo,,,14/08/2026 16:57
-146c92aa-c0dc-4577-8ed7-81d8326d3fae,docile.wedding,available,32.49,32.49,medium,low,6,namesilo,,,14/08/2026 14:17
-ba07016d-dc3d-4b39-b426-e662fc13f723,thready.wedding,available,32.49,32.49,medium,low,7,namesilo,,,18/08/2026 04:08
-c5d2920b-a2cd-4a74-96b6-cb222a834356,amyl.wedding,available,32.49,32.49,medium,low,4,namesilo,,,19/09/2026 00:29
-e23fa132-0c9d-45c0-bc88-4ca463a5aee8,filmy.wedding,available,32.49,32.49,high,low,5,namesilo,,,12/08/2026 14:28
-8aa4722f-8c5b-468a-951f-7eb1d84f22ca,ophthalmic.wedding,available,32.49,32.49,medium,low,10,namesilo,,,04/09/2026 16:33
-866ff359-8114-40c1-ad98-01476645126e,baseless.wedding,available,32.49,32.49,medium,low,8,namesilo,,,08/08/2026 21:44
-09d7af27-145d-458b-8521-049e49236332,spheroidal.wedding,available,33.98,43.98,medium,low,10,namecheap,,,16/08/2026 05:22
-97731180-6766-4720-a075-223bf711b50e,meddlesome.wedding,available,32.49,32.49,medium,low,10,namesilo,,,11/08/2026 11:23
-0227dc5d-4dfa-4f0a-b8a2-31a84979bf2b,responds.wedding,available,32.49,32.49,medium,low,8,namesilo,,,20/09/2026 08:24
-62268d89-0e4a-4ced-acb3-7c8a3c4fa148,tortrix.wedding,available,32.49,32.49,medium,low,7,namesilo,,,20/09/2026 05:04
-ba2c62c9-3b56-4f97-9331-1b8d654e132f,trickster.wedding,available,32.49,32.49,medium,low,9,namesilo,,,23/09/2026 02:57
-f276a5ff-0504-47aa-92d5-215c13383ad6,unexcited.wedding,available,32.49,32.49,medium,low,9,namesilo,,,12/09/2026 09:30
-81b8425f-7849-4d0d-94f2-118e3ad777ab,renault.wedding,available,26.26,26.26,high,medium,7,porkbun,,,28/09/2026 08:37
-2d83d8fe-2621-4ddf-bc1b-673838ee8dab,dizzy.wedding,available,32.49,32.49,high,low,5,namesilo,,,
-5a7fd9bb-3a22-4357-9019-bdede3d96ff0,gibson.wedding,available,33.98,43.98,high,low,6,namecheap,,,18/09/2026 14:55
-161ec3f5-deba-4c5f-8fd5-d812c20a1cf1,hitter.wedding,available,32.49,32.49,high,low,6,namesilo,,,22/09/2026 14:18
-b78e52c5-367d-4aaa-9b78-f3152097b2f2,subtropic.wedding,available,32.49,32.49,medium,low,9,namesilo,,,10/09/2026 03:34
-22c8c174-2700-494d-bf88-a3c6f55c5282,ventral.wedding,available,32.49,32.49,high,low,7,namesilo,,,
-0836e14b-282f-425a-88a8-1b1321aa5df3,earthborn.wedding,available,32.49,32.49,medium,low,9,namesilo,,,14/08/2026 22:35
-70200ade-6e81-4b7a-a128-fc63ae2f52ef,fish.wedding,premium,96,29.5,high,low,4,namesilo,,,
-2bd02507-339c-44cd-a833-847218cb8936,flammable.wedding,available,32.49,32.49,medium,low,9,namesilo,,,18/08/2026 06:32
-b9117185-a980-4a62-916d-582081a7d9a2,het.wedding,premium,47.2,29.5,medium,low,3,namesilo,,,21/08/2026 02:20
-53f80934-e9fd-4085-8b3b-4800c025b24d,bifurcated.wedding,available,33.98,43.98,medium,low,10,namecheap,,,09/08/2026 20:24
-7355159d-9938-4ac0-8490-9f4ef48ec632,dracula.wedding,available,32.49,32.49,high,low,7,namesilo,,,
-3ce85d6b-6178-499e-9d61-c3cd6c1c85b7,whorehouse.wedding,available,33.98,43.98,medium,low,10,namecheap,,,21/09/2026 18:13
-59e6982f-f2fc-475b-812c-516780d5ac5a,haste.wedding,available,26.08,26.08,high,low,5,spaceship,,,27/09/2026 17:08
-69f6833f-c547-4a10-a9a3-7925771fd5e7,lions.wedding,available,32.49,32.49,high,low,5,namesilo,,,
-0ddd7e3d-8811-46f0-bcc4-322755656fc6,teaser.wedding,available,33.98,43.98,high,low,6,namecheap,,,19/09/2026 10:50
-35957181-e968-494c-835c-06d2ac5dd6e9,laminal.wedding,available,33.98,43.98,medium,low,7,namecheap,,,22/08/2026 19:09
-74dffd66-1b90-4596-883c-518df44de7b8,accomplice.wedding,available,32.49,32.49,high,low,10,namesilo,,,16/09/2026 22:50
-70e4f34f-09d1-432c-bbbd-24c87172f332,arguable.wedding,available,32.49,32.49,medium,low,8,namesilo,,,06/08/2026 18:32
-d8138eab-9395-45f6-a68b-a7e00eab5176,ecological.wedding,available,33.98,43.98,high,low,10,namecheap,,,22/09/2026 21:01
-240beca9-d511-45bb-88af-1b1220301b60,pinochle.wedding,available,46.99,46.99,medium,low,8,name.com,,,23/09/2026 12:19
-ce752c2b-a6a4-4fa1-bc76-246435707f0f,cliche.wedding,available,32.49,32.49,high,low,6,namesilo,,,23/09/2026 16:07
-3090a1ef-dd80-4a56-b5ad-880910bc2ff8,avesta.wedding,available,32.49,32.49,medium,low,6,namesilo,,,21/09/2026 09:22
-2b02f0e8-3722-4de6-add8-9fc110b35f28,wingstem.wedding,available,33.98,43.98,medium,low,8,namecheap,,,17/09/2026 04:57
-17dbbe66-7a98-4958-8541-2b1622e59621,relapsing.wedding,available,32.49,32.49,medium,low,9,namesilo,,,09/09/2026 16:17
-36605f2b-6e12-41d3-9515-972e6ed70f8a,screenplay.wedding,available,26.08,26.08,high,low,10,spaceship,,,28/09/2026 20:23
-6a72d0ea-8f9c-4c12-b7f1-438ec3ff2c8b,cluster.wedding,available,33.98,43.98,high,low,7,namecheap,,,24/09/2026 11:12
-03d91cec-3601-40f6-9563-cb68f3e0e1d4,rogue.wedding,available,32.49,32.49,high,low,5,namesilo,,,
-647a701c-3f62-44a9-8bbe-3d1debb9b389,tapped.wedding,available,32.49,32.49,high,low,6,namesilo,,,11/09/2026 08:19
